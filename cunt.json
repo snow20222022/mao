@@ -52,11 +52,11 @@
 {"key": "push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://snow20222022.github.io/mao/MaooXB2/ali.txt"},
 {"key":"csp_xpath_huya",		"name":"🐯虎牙(XP)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://snow20222022.github.io/mao/MaooXP/huya2.json"},
 {"key":"csp_biubiu_斗鱼","name":"🥒斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://snow20222022.github.io/mao/MaooXB2/斗鱼.json"},
-{"key":"csp_biubiu_测试",		"name":"🕵‍♀️测试(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://catvod.fun:8001/tv/18/xmt.json"},
-{"key":"csp_biubiu_测试1",		"name":"🕵‍♀️测试1(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://catvod.fun:8001/tv/18/xjzy.json"},
-{"key":"csp_biubiu_测试2",		"name":"🕵‍♀️测试2(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://catvod.fun:8001/tv/18/zb.json"},
-{"key":"csp_biubiu_测试3",		"name":"🕵‍♀️测试3(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://catvod.fun:8001/tv/18/cqzy.json"},
-{"key":"csp_biubiu_测试4",		"name":"🕵‍♀️测试4(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://catvod.fun:8001/tv/18/nsss.json"},
+{"key":"csp_biubiu_测试",		"name":"🕵‍♀️测试(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://snow20222022.github.io/mao/cunt/xmt.json"},
+{"key":"csp_biubiu_测试1",		"name":"🕵‍♀️测试1(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://snow20222022.github.io/mao/cunt/xjzy.json"},
+{"key":"csp_biubiu_测试2",		"name":"🕵‍♀️测试2(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://snow20222022.github.io/mao/cunt/zb.json"},
+{"key":"csp_biubiu_测试3",		"name":"🕵‍♀️测试3(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://snow20222022.github.io/mao/cunt/cqzy.json"},
+{"key":"csp_biubiu_测试4",		"name":"🕵‍♀️测试4(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://snow20222022.github.io/mao/cunt/nsss.json"},
 {"key":"csp_hsck",		"name":"🕵‍♀️测试2","api":"csp_Hsck","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.javsee.men/","jar": "http://catvod.fun:8001/tv/18/18.jar"}],
 
 "parses":[
