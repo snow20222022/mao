@@ -1,7 +1,7 @@
 // 配置地址 --> https://snow20222022.github.io/mao/820.json
 
 {
-"spider":"https://share.nite07.com/api/v3/file/source/23583/0928.jar?sign=tQKbyyqwsYX9Bb7EJWxnwBlmQDcKCt2DHEsnuQCp9sY%3D%3A0",
+"spider":"https://share.nite07.com/api/v3/file/source/27929/0928.jar?sign=EGmzDjoDFVV1sHn1UgWhDZ2hdYP2aXWPLKm2vb2hSV4%3D%3A0",
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMjk5MDIvMEVSY3pJMGJfekIudHh0P3NpZ249RHMyWW43SjY4eUVpN2FaS0pKcHUtN01hck1xZUlCLXlKbEotZGRacDJBVSUzRCUzQTA="]}]}],
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8yMzIxNi9saXZlLnR4dD9zaWduPXNrSzJlcU1ieERXN3ZKemhpcXNQSWFkNXBCd05aTGp0aGtSWjdVTTI2SG8lM0QlM0Ew"]}]}],
 //"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3dlYWx3YXlzL21hb1RWL3Jhdy9icmFuY2gvbWFzdGVyL2xpdmUudHh0"]}]}],
@@ -16,7 +16,8 @@
 {"key": "csp_XYQBiu_凌云影视","name": "凌云影视(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://snow20222022.github.io/mao/MaooXB2/lyys(xyq).json"},
 {"key":"csp_xpath_UM","name":"UM影院(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://snow20222022.github.io/mao/MaooXB2/UM.json"},
 {"key":"csp_Lgyy","name": "🔃蓝光┃SP","type": 3,"api": "csp_Lgyy","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://xn--m7r412advb92j21st65a.tk/jar/ts.jar"},
-{"key":"csp_AppTT","name":"🐰tutu┃SP","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://xn--m7r412advb92j21st65a.tk/vob"},
+{"key":"csp_AppTT","name":"🐰tutu┃SP","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_AppTT","name":"🐰tutu┃SP","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://xn--m7r412advb92j21st65a.tk/vob"},
 //{"key":"9E03","name":"9E03","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
 //{"key":"csp_Wmkk"        ,"name":"🐞完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_77"            ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://snow20222022.github.io/mao/gg0925.jar"},
