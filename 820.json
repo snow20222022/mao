@@ -1,7 +1,7 @@
 // 配置地址 --> https://snow20222022.github.io/mao/820.json
 
 {
-"spider":"https://share.nite07.com/api/v3/file/source/27929/0928.jar?sign=EGmzDjoDFVV1sHn1UgWhDZ2hdYP2aXWPLKm2vb2hSV4%3D%3A0",
+"spider":"https://snow20222022.github.io/mao/0928.jar",
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMjk5MDIvMEVSY3pJMGJfekIudHh0P3NpZ249RHMyWW43SjY4eUVpN2FaS0pKcHUtN01hck1xZUlCLXlKbEotZGRacDJBVSUzRCUzQTA="]}]}],
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8yMzIxNi9saXZlLnR4dD9zaWduPXNrSzJlcU1ieERXN3ZKemhpcXNQSWFkNXBCd05aTGp0aGtSWjdVTTI2SG8lM0QlM0Ew"]}]}],
 //"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3dlYWx3YXlzL21hb1RWL3Jhdy9icmFuY2gvbWFzdGVyL2xpdmUudHh0"]}]}],
