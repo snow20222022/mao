@@ -10,6 +10,9 @@
 
 {"key":"douban2","name":"🅱豆瓣荐片┃神器妹推荐首页","type":4,"api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"js豆瓣","name":"🅱豆瓣热播┃dr首页","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"},
+{"key":"csp_fant","name":"🍙饭团┃SP","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://xn--m7r412advb92j21st65a.tk/vod"},
+{"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://xn--m7r412advb92j21st65a.tk/vod"},
+{"key":"csp_Nmys","name":"🌾农民┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xn--m7r412advb92j21st65a.tk/json/nmys.json","jar":"https://xn--m7r412advb92j21st65a.tk/vod"},
 {"key":"小苹果","name":"🐞小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"追剧喵","name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Mjxq","name":"🌏美剧星球┃SP","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
@@ -546,7 +549,7 @@
 {"name":"解析2","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"解析3","type":0,"url":"https://h5.freejson.xyz/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"解析4","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
-{"name":"解析1","url":"https://www.playm3u8.cn/jiexi.php?url="},
+{"name":"解析1","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url="},
  {   "name": "xmflv",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
