@@ -1,7 +1,7 @@
 // 配置地址 --> https://snow20222022.github.io/mao/820.json
 
 {
-"spider":"https://snow20222022.github.io/mao/0928.jar",
+"spider":"https://snow20222022.github.io/mao/0929.jar",
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMjk5MDIvMEVSY3pJMGJfekIudHh0P3NpZ249RHMyWW43SjY4eUVpN2FaS0pKcHUtN01hck1xZUlCLXlKbEotZGRacDJBVSUzRCUzQTA="]}]}],
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://snow20222022.github.io/mao/live1.txt"]}]}],
 //"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3dlYWx3YXlzL21hb1RWL3Jhdy9icmFuY2gvbWFzdGVyL2xpdmUudHh0"]}]}],
