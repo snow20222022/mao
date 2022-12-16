@@ -82,10 +82,10 @@
 {"key":"csp_XYQBiu_聚合短视频","name":"📽️短视频聚合","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://snow20222022.github.io/mao/XYQxb/分享短视频.json"},
 
 	
-//{"key":"少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/少儿教育.json"},
-//{"key":"小学课堂","name":"📚小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/小学课堂.json"},
-//{"key":"初中课堂","name":"📚初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/初中课堂.json"},
-//{"key":"高中教育"name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/高中课堂.json"},
+{"key":"少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://xn--m7r412advb92j21st65a.tk/json/小学课堂.json/json/少儿教育.json"},
+{"key":"小学课堂","name":"📚小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://xn--m7r412advb92j21st65a.tk/json/小学课堂.json/json/小学课堂.json"},
+{"key":"初中课堂","name":"📚初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://xn--m7r412advb92j21st65a.tk/json/小学课堂.json/json/初中课堂.json"},
+{"key":"高中教育"name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://xn--m7r412advb92j21st65a.tk/json/小学课堂.json/json/高中课堂.json"},
 
 //{"key":"csp_xBPQ_coke","name":"🍀coke","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://snow20222022.github.io/mao/xbpq/coke.json"},
 //{"key":"csp_xBPQ_工场","name":"🍀工场","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://snow20222022.github.io/mao/xbpq/影视工场.json"},
