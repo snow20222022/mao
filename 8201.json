@@ -23,7 +23,7 @@
 {"key":"csp_Nkdy","name":"🗽南柯┃SP","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Smdyy","name":"🐴神马┃SP","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},	
 {"key":"csp_Lgyy","name":"🌀蓝光┃SP","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
-
+{"key":"csp_panghu","name":"🐯胖虎┃SP","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"✌2BT┃SP","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_GitCafe","name":"📜纸条┃云盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"csp_CZSPP"         ,"name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"jar":"http://52bsj.vip:81/api/v3/file/get/59449/tangsan.jar?sign=ecPCHonmAmjAslzvz2Uu-bPAjHmVEsTCdMyDNa2ruNI%3D%3A0"},
