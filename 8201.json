@@ -69,7 +69,7 @@
 {"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
 //{"key":"csp_GitCafe","name":"📜纸条┃云盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok","jar":"https://xn--m7r412advb92j21st65a.tk/vod"},
-{"key":"csp_GitCafe","name":"📜纸条┃云盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/ali.txt"},
+{"key":"csp_GitCafe","name":"📜纸条┃云盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
 
 {"key":"csp_trj","name": "🛫唐人街┃墙外","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Nbys","name":"🛫泥视频┃墙外","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
