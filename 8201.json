@@ -3,8 +3,8 @@
 
 {
 //"spider":"https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/xo.jar",
-//"spider":"https://xn--m7r412advb92j21st65a.tk/vod",
-"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj23c2e6c9e02044a6aa43d7a6a742be6e2;md5;c02b8653b8c3d270081b35fc48b5b5c6",
+"spider":"https://xn--m7r412advb92j21st65a.tk/vod",
+//"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj23c2e6c9e02044a6aa43d7a6a742be6e2;md5;c02b8653b8c3d270081b35fc48b5b5c6",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/live.txt"]}]}],
 
 "sites":[
@@ -24,7 +24,7 @@
 {"key":"csp_Nkdy","name":"🗽南柯┃SP","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Smdyy","name":"🐴神马┃SP","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},	
 {"key":"csp_Lgyy","name":"🌀蓝光┃SP","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_panghu","name":"🐯胖虎┃SP","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_panghu","name":"🐯胖虎┃SP","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1","jar":https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj23c2e6c9e02044a6aa43d7a6a742be6e2;md5;c02b8653b8c3d270081b35fc48b5b5c6"},
 {"key":"csp_Bttoo","name":"✌2BT┃SP","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_CZSPP"         ,"name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"jar":"http://52bsj.vip:81/api/v3/file/get/59449/tangsan.jar?sign=ecPCHonmAmjAslzvz2Uu-bPAjHmVEsTCdMyDNa2ruNI%3D%3A0"},
