@@ -2,7 +2,7 @@
 // http://xxooo.eu.org
 
 {
-"spider":"https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/mainjar.jar",
+"spider":"https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/xo1232.jar",
 //"spider":"https://xn--m7r412advb92j21st65a.tk/vod",
 //"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj23c2e6c9e02044a6aa43d7a6a742be6e2;md5;c02b8653b8c3d270081b35fc48b5b5c6",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/live.txt"]}]}],
