@@ -232,6 +232,13 @@ CCTV2[1920*1080][1920*1080][1920*1080],http://39.134.115.221:8080/PLTV/88888910/
 CCTV3[1920*1080][1920*1080][1920*1080],http://39.134.115.221:8080/PLTV/88888910/224/3221225647/index.m3u8
 CGTN记录[1024*576][1024*576][1024*576],http://39.134.115.221:8080/PLTV/88888910/224/3221225645/index.m3u8
 CCTV5+[1920*1080][1920*1080][1920*1080],http://39.134.115.221:8080/PLTV/88888910/224/3221225649/index.m3u8
+辽宁,#genre#
+辽宁都市,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000068
+辽宁影视剧,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000070
+辽宁生活,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000073
+辽宁青少,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000075
+辽宁经济,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000076
+辽宁公共,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000077
 🍀辽宁,#genre#
 辽宁,http://39.135.32.10:6610/000000001000/HD-8000k-1080P-liaoningstv/1.m3u8?IASHttpSessionId=OTT?zliaond
 家庭理财,http://111.20.106.13:6610/yinhe/2/ch00000090990000001324/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=?zliaond
