@@ -232,18 +232,27 @@ CCTV2[1920*1080][1920*1080][1920*1080],http://39.134.115.221:8080/PLTV/88888910/
 CCTV3[1920*1080][1920*1080][1920*1080],http://39.134.115.221:8080/PLTV/88888910/224/3221225647/index.m3u8
 CGTN记录[1024*576][1024*576][1024*576],http://39.134.115.221:8080/PLTV/88888910/224/3221225645/index.m3u8
 CCTV5+[1920*1080][1920*1080][1920*1080],http://39.134.115.221:8080/PLTV/88888910/224/3221225649/index.m3u8
-辽宁,#genre#
+
+
+🍀辽宁,#genre#
+辽宁,http://39.135.32.10:6610/000000001000/HD-8000k-1080P-liaoningstv/1.m3u8?IASHttpSessionId=OTT?zliaond
+家庭理财,http://111.20.106.13:6610/yinhe/2/ch00000090990000001324/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=?zliaond
+家庭理财,http://111.20.106.13:6610/yinhe/2/ch00000090990000001321/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=?zliaond
+家庭理财,http://39.134.19.135/PLTV/88888888/224/3221225849/1.m3u8?zliaond
+辽宁北方,http://42.176.185.28:9901/tsfile/live/1011_1.m3u8?zliaond
+辽宁生活,http://42.176.185.28:9901/tsfile/live/1006_1.m3u8?zliaond
+辽宁教育青少,http://42.176.185.28:9901/tsfile/live/1008_1.m3u8?zliaond
+
 辽宁都市,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000068
 辽宁影视剧,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000070
 辽宁生活,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000073
 辽宁青少,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000075
 辽宁经济,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000076
 辽宁公共,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000077
-🍀辽宁,#genre#
-辽宁,http://39.135.32.10:6610/000000001000/HD-8000k-1080P-liaoningstv/1.m3u8?IASHttpSessionId=OTT?zliaond
-家庭理财,http://111.20.106.13:6610/yinhe/2/ch00000090990000001324/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=?zliaond
-家庭理财,http://111.20.106.13:6610/yinhe/2/ch00000090990000001321/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=?zliaond
-家庭理财,http://39.134.19.135/PLTV/88888888/224/3221225849/1.m3u8?zliaond
+大连新闻综合,rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500?p?zliaond
+大连影院,rtmp://secret.dltv.cn/dreamStreamCore/8cuL6wa/lv500?p?zliaond
+大连少儿,rtmp://secret.dltv.cn/dreamStreamCore/q6tZ6Ba/lv500?p?zliaond
+大连生活,rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500?p?zliaond
 鞍山新闻综合,http://live.asbctv.com:8080/live/lnastv-01.m3u8?zliaond
 鞍山公共,http://live.asbctv.com:8080/live/lnastv02.m3u8?zliaond
 盘锦新闻综合,http://pili-live-rtmp-pjfb2.tianma3600.com/pjfb2/xwzhtest.m3u8?zliaond
@@ -253,16 +262,11 @@ CCTV5+[1920*1080][1920*1080][1920*1080],http://39.134.115.221:8080/PLTV/88888910
 朝阳新闻综合,https://play.cytv01.cygbdst.com/live/cyxwtv.m3u8?zliaond
 朝阳教育,https://play.cytv01.cygbdst.com/live/jypdtv.m3u8?zliaond
 朝阳公共,https://play.cytv01.cygbdst.com/live/ggpdtv.m3u8?zliaond
-大连影院,rtmp://secret.dltv.cn/dreamStreamCore/8cuL6wa/lv500?p?zliaond
-大连少儿,rtmp://secret.dltv.cn/dreamStreamCore/q6tZ6Ba/lv500?p?zliaond
-大连生活,rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500?p?zliaond
-辽宁北方,http://42.176.185.28:9901/tsfile/live/1011_1.m3u8?zliaond
-辽宁生活,http://42.176.185.28:9901/tsfile/live/1006_1.m3u8?zliaond
-辽宁教育青少,http://42.176.185.28:9901/tsfile/live/1008_1.m3u8?zliaond
-大连新闻综合,rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500?p?zliaond
+
+
 地方,#genre#
 
-
+辽宁卫视,http://39.184.224.99:9080/newlive/live/hls/29/live.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 湖南卫视,http://39.184.224.99:9080/newlive/live/hls/18/live.m3u8
 东方卫视,http://39.184.224.99:9080/newlive/live/hls/19/live.m3u8
@@ -277,7 +281,8 @@ CCTV5+[1920*1080][1920*1080][1920*1080],http://39.134.115.221:8080/PLTV/88888910
 重庆卫视,http://39.184.224.99:9080/newlive/live/hls/28/live.m3u8
 辽宁卫视,http://39.184.224.99:9080/newlive/live/hls/29/live.m3u8
 安徽卫视,http://39.184.224.99:9080/newlive/live/hls/30/live.m3u8
-
+辽宁卫视蓝光[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
+辽宁卫视蓝光[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
 北京卫视蓝光[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
 重庆卫视蓝光[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
 纯享4k[3840*2160],http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
@@ -293,8 +298,7 @@ CCTV5+[1920*1080][1920*1080][1920*1080],http://39.134.115.221:8080/PLTV/88888910
 江苏卫视蓝光[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
 江西卫视蓝光[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
 江西卫视蓝光[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
-辽宁卫视蓝光[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
-辽宁卫视蓝光[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+
 山东卫视蓝光[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
 深圳卫视蓝光[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
 深圳卫视蓝光[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
@@ -354,6 +358,7 @@ CCTV5+[1920*1080][1920*1080][1920*1080],http://39.134.115.221:8080/PLTV/88888910
 江苏卫视[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225702/index.m3u8
 辽宁卫视[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225735/index.m3u8
 辽宁卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225696/index.m3u8
+辽宁卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/lnwshd8m/8000000/mnf.m3u8
 辽宁卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225696/index.m3u8
 辽宁卫视[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225735/index.m3u8
 辽宁卫视[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8
@@ -407,7 +412,7 @@ CCTV5+[1920*1080][1920*1080][1920*1080],http://39.134.115.221:8080/PLTV/88888910
 东方卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dfwshd8m/8000000/mnf.m3u8
 北京卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/bjwshd8m/8000000/mnf.m3u8
 天津卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/tjwshd8m/8000000/mnf.m3u8
-辽宁卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/lnwshd8m/8000000/mnf.m3u8
+
 安徽卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/ahwshd8m/8000000/mnf.m3u8
 黑龙江卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hljwshd8m/8000000/mnf.m3u8
 广东卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/gdwshd8m/8000000/mnf.m3u8
@@ -477,9 +482,7 @@ CCTV5+[1920*1080][1920*1080][1920*1080],http://39.134.115.221:8080/PLTV/88888910
 青海卫视,http://221.2.36.34:8888/newlive/live/hls/39/live.m3u8
 
 💞岗奥苔测试,#genre#
-V8,http://198.16.64.10:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
-TV8,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
-TVB J2,https://j3.lhlh.app/mv.m3u8
+
 TVBS新闻HD,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
@@ -532,16 +535,8 @@ TVB星河粤语,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
 香港RTHK31 HD,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8?blog.ntnas.top
 香港RTHK32 HD,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8?blog.ntnas.top
 香港电台普通话,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
-香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
-香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-香港开电视[1280*720],http://livetv.dnsfor.me/channel.9.m3u8
-香港开电视[1280*720],http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港卫视,http://124.238.99.44:808/hls/352/index.m3u8
 香港卫视HKS,http://hw-play.lezhibo.com/live/bd2d26fd492b403d8ec69de1859bdb31.m3u8
-香港衛視文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
-香港文旅,http://hw-play.lezhibo.com/live/1fb871bac32a4c96b206a85aa573a161.m3u8
-香港有线财经资讯台,https://api.leonardpark.dev/live/icable/108
 香港有线直播新闻台,https://api.leonardpark.dev/live/icable/110
 海外频道,#genre#
 中天亚洲,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
