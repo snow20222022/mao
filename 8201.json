@@ -10,7 +10,7 @@
 "sites":[
 //{"key":"douban","name":"🅱豆瓣荐片┃t4首页","type":4,"api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 //{"key":"douban","name":"🐼豆瓣荐片┃t4首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/230110/alist.json"},
+{"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://cdn.饭太硬.ga/x/json/alist.json"},
 {"key": "csp_Alist2","name": "🅿小丫搜索","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/230110/alist0.json"},
 {"key":"csp_Nkdy","name": "🗽耐看┃SP","type": 3,"api": "csp_Nkdy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Cokemv","name": "📕可乐┃SP","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
