@@ -154,6 +154,7 @@ CCTV怀旧剧场,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012511203
 CCTV怀旧剧场,http://218.17.216.102:9901/tsfile/live/1069_1.m3u8
 CCTV风云剧场,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513603.m3u8
 CCTV风云剧场,http://218.17.216.102:9901/tsfile/live/1070_1.m3u8
+CCTV风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 CCTV央视台球,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513703.m3u8
 CCTV央视台球,http://218.17.216.102:9901/tsfile/live/1066_1.m3u8
 CCTV央视文化,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513803.m3u8
@@ -164,6 +165,7 @@ CCTV第一剧场,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514403
 CCTV第一剧场,http://218.17.216.102:9901/tsfile/live/1072_1.m3u8
 CCTV风云音乐,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514103.m3u8
 CCTV风云音乐,http://218.17.216.102:9901/tsfile/live/1073_1.m3u8
+CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 CCTV世界地理,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513303.m3u8
 CCTV世界地理,http://218.17.216.102:9901/tsfile/live/1068_1.m3u8
 CETV1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
