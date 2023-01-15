@@ -2,7 +2,7 @@
     "spider": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/xo1232.jar",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "lives": [
-    {
+    //{
       "name": "直播",
       "type": 0,
       "url": "http://home.jundie.top:81/Cat/tv/live.txt",
@@ -14,7 +14,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="
+            "proxy://do=live&type=txt&ext=https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/zb230112.txt"
           ]
         }
       ],
