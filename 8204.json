@@ -232,7 +232,7 @@
 {"name":"神1","type":1,"url":"http://api.ckflv.cn/?url="},
 {"name":"神2","type":0,"url":"https://h5.freejson.xyz/player/?url="},
 {"name":"神3","type":0,"url":"https://freejx.rx88.top:1234/?url="},
-{"name": "野","type": 1,"url": "http://3.37.195.161:54371/parse/api/无名.js?url=","header":{"User-Agent": "Mozilla/5.0"}},
+//{"name": "野","type": 1,"url": "http://3.37.195.161:54371/parse/api/无名.js?url=","header":{"User-Agent": "Mozilla/5.0"}},
 	{
       "name": "xmflv",
       "type": 0,
