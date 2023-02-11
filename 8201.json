@@ -676,6 +676,7 @@
             "type": 3,
             "url": "Web"
         },
+        {"name":"万年魂环解析","type":1,"url":"https://jiexi.parses.repl.co/api.php?url="},
         {
             "name": "全部",
             "type": 1,
