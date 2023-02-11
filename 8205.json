@@ -149,6 +149,7 @@
 //{"name":"GGTV搜集","type":1,"url":"https://play.fuqizhishi.com/jx1/API.php?appkey=iiiixiaobai&url="},
 "parses":[{"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
+{"name":"万年魂环解析","type":1,"url":"https://jiexi.parses.repl.co/api.php?url="},  
 {"name":"全部","type":1,"url":"https://parse.ikunfk.cc/parse/sign/c092dfdaea71d857e79a3738b5ada748?url="},
 {"name": "自","type": 1,"url": "https://parse.ikunfk.cc/parse/sign/20221230?url="},  
 {"name":"来","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
