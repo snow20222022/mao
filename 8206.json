@@ -1,27 +1,27 @@
 {
     "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;4bd2275690262e2b338920201a674539",
     //"wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
-    //"lives": [
-        //{
-            //"name": "live",
-           // "type": 0,
-           // "url": "http://ftyyy.tk/live.txt",
-           // "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-        //}
-    //],
-   "lives": [
+    "lives": [
         {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "live",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/live0.txt"
-                    ]
-                }
-            ]
+            "name": "live",
+            "type": 0,
+            "url": "http://ftyyy.tk/live.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         }
     ],
+   //"lives": [
+        //{
+            //"group": "redirect",
+           // "channels": [
+               // {
+                    //"name": "live",
+                   // "urls": [
+                       // "proxy://do=live&type=txt&ext=https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/live0.txt"
+                    //]
+               // }
+           // ]
+        //}
+    //],
     "sites": [
 
 {
