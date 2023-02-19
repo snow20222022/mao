@@ -752,51 +752,41 @@
         {
             "name": "随便",
             "type": 0,
-            "url": "https://h5.freejson.xyz/player/?url="
+            "url": "https://jx.777jiexi.com/player/?url="
         },
+    
         {
             "name": "弄",
             "type": 1,
-            "url": "rxjx.kuanjv.com/allm3u8.php?url="
+            "url": "http://newjiexi.gotka.top/keyu3.php?url=",
+            "header": {
+                "User-Agent": "okhttp/4.1.0"
+            }
         },
         {
-            "name": "不要",
+            "name": "网络",
             "type": 1,
-            "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
+            "url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="
         },
         {
             "name": "客气",
-            "type": 1,
-            "url": "http://lanlan.ckflv.cn/?url=",
-            "ext": {
-                "flag": [
-                    "qiyi",
-                    "qq",
-                    "letv",
-                    "sohu",
-                    "youku",
-                    "mgtv",
-                    "bilibili",
-                    "wasu",
-                    "xigua",
-                    "1905"
-                ]
-            }
+            "type": 0,
+            "url": "https://jx.bozrc.com:4433/player/?url="
         },
         {
             "name": "坏了",
-            "type": 1,
-            "url": "https://www.1920lgzy.top/json.php?url=",
-            "ext": {
-                "header": {
-                    "User-Agent": "Mozilla/5.0"
-                }
-            }
+            "type": 0,
+            "url": "http://www.miaoys.cc/vip/?url="
         },
         {
             "name": "我再",
             "type": 1,
-            "url": "https://hc.izny.cn/json.php?url="
+            "url": "http://lanlan.ckflv.cn/?url=",
+            "ext": {
+                "header": {
+                    "User-Agent": "Dart/2.14(dart:io)"
+                }
+            }
         },
         {
             "name": "去找",
