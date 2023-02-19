@@ -715,7 +715,7 @@
 {"key":"csp_xp_yingba","name":"💢电影吧","type":3,"api":"csp_XPath3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/snow20222022/mao/main/xp/yingba.json"}
 
 ],
-    "parses": [
+     "parses": [
         {
             "name": "Json聚合",
             "type": 3,
@@ -730,17 +730,47 @@
         {
             "name": "全部",
             "type": 1,
-            "url": "http://www.pandown.pro/app/tkys/tkysjx.php?url="
-        },
-        {
-            "name": "来",
-            "type": 1,
-            "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v="
+            "url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=",
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
         },
         {
             "name": "自",
             "type": 1,
-            "url": "https://jx.ccabc.cc/byg/?url="
+            "url": "https://parse.ikunfk.cc/parse/sign/20230117?url=",
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "来",
+            "type": 1,
+            "url": "http://pandown.pro/app/ysmjx.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
         },
         {
             "name": "网络",
