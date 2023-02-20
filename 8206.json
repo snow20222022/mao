@@ -71,13 +71,13 @@
         },
         {
             "key": "csp_AppTT",
-            "name": "🐰图图┃SP",
+            "name": "图图",
             "type": 3,
             "api": "csp_AppTT2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://103.239.101.244:6677$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
+            "ext": "110c922de7d69804467fb83d3bb664b5","jar":"https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/0217tang.jar"   
         },
         {
             "key": "csp_BuLei",
