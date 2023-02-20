@@ -1,9 +1,6 @@
 轮播,#genre#
 高帧电影,http://epg.112114.xyz/douyu/431460
-高帧影片,http://epg.112114.xyz/douyu/6763930
-米娅电影,http://epg.112114.xyz/douyu/6537888
-小九电影,http://epg.112114.xyz/douyu/7136517
-凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+
 女神影院,https://pull.kktv8.com/livekktv/99350550.flv
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -15,28 +12,20 @@ NewTV动作电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225678/index.
 午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
 神乐影片2,http://epg.112114.xyz/douyu/85894
 周末影院,http://epg.112114.xyz/douyu/3637765
-CCTV放映室,http://epg.112114.xyz/douyu/10011042
-特辑影院,http://epg.112114.xyz/douyu/3637778
+
 刘德华电影2,http://epg.112114.xyz/douyu/8985415
 喜剧经典,http://epg.112114.xyz/douyu/9650887
-北京大蜜,http://epg.112114.xyz/douyu/805235
+
 霍格影片,http://epg.112114.xyz/douyu/8814650
 奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
-星星影院,http://epg.112114.xyz/douyu/315131
-华语动作电影,http://epg.112114.xyz/douyu/1504768
-虎牙2,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
+
 喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-精品电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
-邵氏影院,http://wtv.weetai.cn/iptv/2022/tyzb09.php?id=4246519
+
+
 贝爷MAX厅,http://epg.112114.xyz/douyu/4332
 漫威影片,http://epg.112114.xyz/douyu/6140589
 欧美大片,https://magselect-stirr.amagi.tv/playlist1080p.m3u8
-红牛TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-美剧频道,http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
-1905电影,http://txtest-xp2p.p2p.huya.com/src/1199513205060-1199513205060-5228390287876816896-2399026533576-10057-A-0-1.xs
-动画相声,http://txtest-xp2p.p2p.huya.com/src/1671404305-1671404305-7178626828368609280-3342932066-10057-A-0-1.xs
-相声动画,http://txtest-xp2p.p2p.huya.com/src/1449698104-1449698104-6226405945753206784-2847699140-10057-A-0-1.xs
-GDG相声,http://txtest-xp2p.p2p.huya.com/src//64310431-64310431-276211197936664576-128744318-10057-A-0-1.xs
+
 
 央视|🍊百视通( 8M),#genre#
 CCTV16-4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
@@ -465,22 +454,14 @@ CCTV5+,http://110.81.206.138:50080/tsfile/live/1005_1.m3u8
 
 
 香港频道,#genre#
-凤凰中文,http://vl15191373.imwork.net:8880/rtp/239.93.0.162:2192
-凤凰中文,http://vl15191373.imwork.net:8880/rtp/239.93.1.9:2192
-凤凰资讯,http://vl15191373.imwork.net:8880/rtp/239.93.0.118:2191
-凤凰中文,http://xstartx.com:4000/udp/239.93.1.9:2192
-凤凰资讯,http://xstartx.com:4000/udp/239.93.0.118:2191
-凤凰中文,http://datou.work/sxg.php?id=test1_4000
-凤凰资讯,http://datou.work/sxg.php?id=test2_4000
 凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+凤凰资讯,http://datou.work/sxg.php?id=test2_4000
 凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 凤凰中文,http://home.111818.xyz:8888/udp/239.76.246.7:1234
 凤凰资讯,http://home.111818.xyz:8888/udp/239.76.246.8:1234
 凤凰中文,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰香港,http://jylt.jdshipin.com:808/hls/81/index.m3u8
-翡翠台,http://datou.work/gd.php?id=1350_4500
-明珠台,http://datou.work/gd.php?id=1351_4500
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
@@ -512,23 +493,20 @@ CCTV5+,http://110.81.206.138:50080/tsfile/live/1005_1.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-中國電影[1280*720],http://50.7.220.74:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=18393&tsum=c098f25f9c140478d2a814b22a7ccbd3
+
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-亞洲旅遊[1280*720],http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
+
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-华语电视,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
-华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-東森綜合[1920*1080],http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
+
+
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u
-无线新闻,http://andychuxdd.asuscomm.com:9981/stream/channelid/1793255727?profile=pass
-无线财经,http://andychuxdd.asuscomm.com:9981/stream/channelid/412464624?profile=pass
-无线财经,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
+
 J2,http://r.jdshipin.com/Nr5jq
-ViuTV,http://r.jdshipin.com/vSJvl
+
 华丽台,http://r.jdshipin.com/thuYX
 VIUTV6,http://59.149.114.27:9981/stream/channelid/264320601?profile=matroska?
 
