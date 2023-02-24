@@ -726,7 +726,7 @@
             "type": 3,
             "url": "Web"
         },
-        {"name":"万年魂环解析","type":1,"url":"https://jiexi.parses.repl.co/api.php?url="},
+        //{"name":"万年魂环解析","type":1,"url":"https://jiexi.parses.repl.co/api.php?url="},
         {
             "name": "全部",
             "type": 1,
@@ -765,6 +765,12 @@
                 "User-Agent": "okhttp/4.1.0"
             }
         },
+        {"name":"全部1","type":1,"url":"https://parse.ikunfk.cc/parse/sign/c092dfdaea71d857e79a3738b5ada748?url="},
+        {
+          "name": "xmflv",
+          "type": 0,
+          "url": "https://jx.xmflv.com/?url="
+       },
         {
             "name": "不要",
             "type": 1,
