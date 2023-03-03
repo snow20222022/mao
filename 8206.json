@@ -90,13 +90,23 @@
             "ext": "http://124.248.66.89:7788/"
         },
         {
+            "key": "csp_77",
+            "name": "👒七七┃影视",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_BuLei",
-            "name": "💢布雷┃SP",
+            "name": "💢布雷┃影视",
             "type": 3,
             "api": "csp_BuLei",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://www.bulei.cc"
         },
         {
             "key": "csp_Yht",
@@ -173,7 +183,8 @@
             "api": "csp_Xinsj",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://www.6080dy2.com"
         },
         {
             "key": "csp_Czsapp",
@@ -728,15 +739,16 @@
 ],
      "parses": [
         {
-            "name": "Json聚合",
+            "name": "聚合1",
             "type": 3,
             "url": "Demo"
         },
         {
-            "name": "Web聚合",
+            "name": "聚合0",
             "type": 3,
             "url": "Web"
         },
+        {"name" : "瞄影嗅探","type":0,"url":"http://www.miaoys.cc/vip/?url="},
         //{"name":"万年魂环解析","type":1,"url":"https://jiexi.parses.repl.co/api.php?url="},
          {
             "name": "肥猫官解",
@@ -782,7 +794,7 @@
                 ]
             }
         },
-{"name" : "瞄影嗅探","type":0,"url":"http://www.miaoys.cc/vip/?url="},
+
 
         {
             "name": "全部",
@@ -792,7 +804,7 @@
         {
             "name": "来",
             "type": 1,
-            "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v="
+            "url": "https://json.xn--9kq078cdn3a.cc/api/?key=9ksb8DzGi6xUtNf1Cm&url="
         },
         {
             "name": "自",
