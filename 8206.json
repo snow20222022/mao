@@ -5,7 +5,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/live0.txt",
+            "url": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/live0307.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         }
     ],
