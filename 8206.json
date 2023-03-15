@@ -220,13 +220,14 @@
         },
         {
             "key": "csp_Paper",
-            "name": "📜纸条┃云盘",
+            "name": "📜纸条┃4K",
             "type": 3,
             "api": "csp_Paper",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/ali.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;1862134a5028c5720a5c9eb24245144a"
+            "changeable": 0,
+            "ext": "http://ali.饭太硬.ml/alitoken","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;ed850893fd0c94513677e7b98cc741a8"
         },
         
         {
@@ -553,43 +554,47 @@
         },
        {
             "key": "Zhaozy",
-            "name": "🐺找资源┃搜索",
+            "name": "🐺找资源┃4K",
             "type": 3,
             "api": "csp_Zhaozy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+            "changeable": 0,
+            "ext": "http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234"
         }, 
         {
             "key": "YiSo",
-            "name": "😹易搜┃搜索",
+            "name": "😹易搜┃4K",
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;1862134a5028c5720a5c9eb24245144a"
+            "changeable": 0,
+            "ext": "http://ali.饭太硬.ml/alitoken","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;ed850893fd0c94513677e7b98cc741a8"
         },
         {
             "key": "PanSou",
-            "name": "🦊盘搜┃搜索",
+            "name": "🦊盘搜┃4K",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;1862134a5028c5720a5c9eb24245144a"
+            "changeable": 0,
+            "ext": "http://ali.饭太硬.ml/alitoken","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;ed850893fd0c94513677e7b98cc741a8"
         },
         {
             "key": "UpYun",
-            "name": "😻Up搜┃搜索",
+            "name": "😻Up搜┃4K",
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;1862134a5028c5720a5c9eb24245144a"
+            "changeable": 0,
+            "ext": "http://ali.饭太硬.ml/alitoken","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;ed850893fd0c94513677e7b98cc741a8"
         },
         {
             "key": "push_agent",
@@ -599,7 +604,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;1862134a5028c5720a5c9eb24245144a"
+            "ext": "http://ali.饭太硬.ml/alitoken","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;ed850893fd0c94513677e7b98cc741a8"
         },
         {
             "key": "csp_XYQH外剧",
