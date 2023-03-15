@@ -23,8 +23,14 @@
         //}
     //],
     "sites": [
-
-{
+        {
+            "key": "直播",
+            "name": "🅿电视┃直播",
+            "type": 4,
+            "playerType": 1,
+            "api": "http://120.53.102.254/live2?url=https://agit.ai/fantaiying/fty/raw/branch/master/live.txt"
+        },
+        {
             "key": "csp_apple",
             "name": "🍎苹果┃SP",
             "type": 3,
@@ -779,7 +785,7 @@
             "type": 3,
             "url": "Web"
         },
-        {"name" : "瞄影嗅探","type":0,"url":"http://www.miaoys.cc/vip/?url="},
+        //{"name" : "瞄影嗅探","type":0,"url":"http://www.miaoys.cc/vip/?url="},
         //{"name":"万年魂环解析","type":1,"url":"https://jiexi.parses.repl.co/api.php?url="},
          //{"name":"万年魂环解析","type":1,"url":"https://juka.pro/fanhou.php/?url="},
          {
