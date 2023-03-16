@@ -25,10 +25,11 @@
     "sites": [
         {
             "key": "直播",
-            "name": "🅿电视┃直播",
-            "type": 4,
+            "name": "📡电视┃直播",
+            "type": 3,
             "playerType": 1,
-            "api": "http://120.53.102.254/live2?url=https://agit.ai/fantaiying/fty/raw/branch/master/live.txt"
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/直播转点播.js",
+            "ext": "Box醒人室$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/index.php"
         },
         {
             "key": "csp_apple",
@@ -233,7 +234,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/ali.txt"
+            "ext": "http://ali.饭太硬.ml/alitoken"
         },
         
         {
@@ -578,7 +579,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/ali.txt"
+            "ext": "http://ali.饭太硬.ml/alitoken"
         },
         {
             "key": "PanSou",
@@ -589,7 +590,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/ali.txt"
+            "ext": "http://ali.饭太硬.ml/alitoken"
         },
         {
             "key": "UpYun",
@@ -600,7 +601,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/ali.txt"
+            "ext": "http://ali.饭太硬.ml/alitoken"
         },
         {
             "key": "push_agent",
@@ -610,7 +611,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/ali.txt"
+            "ext": "http://ali.饭太硬.ml/alitoken"
         },
         {
             "key": "csp_XYQH外剧",
