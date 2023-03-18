@@ -226,15 +226,14 @@
             "filterable": 1
         },
         {
-            "key": "csp_Paper",
-            "name": "📜纸条┃4K",
+            "key": "紙條",
+            "name": "紙條",
             "type": 3,
             "api": "csp_Paper",
             "searchable": 1,
-            "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken"
+            "ext": "http://ali.饭太硬.ml/alitoken","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         
         {
@@ -571,47 +570,44 @@
             "ext": "http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234"
         }, 
         {
-            "key": "YiSo",
-            "name": "😹易搜┃4K",
+            "key": "易搜",
+            "name": "易搜",
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
-            "quickSearch": 1,
             "filterable": 0,
-            "changeable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken"
+            "changeable": 0,,
+            "ext": "http://ali.饭太硬.ml/alitoken","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
-            "key": "PanSou",
-            "name": "🦊盘搜┃4K",
+            "key": "盤搜",
+            "name": "盤搜",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
-            "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken"
+            "ext": "http://ali.饭太硬.ml/alitoken","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
-            "key": "UpYun",
-            "name": "😻Up搜┃4K",
+            "key": "UP雲搜",
+            "name": "UP雲搜",
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
-            "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken"
+            "ext": "http://ali.饭太硬.ml/alitoken","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "push_agent",
-            "name": "🛴手机┃推送",
+            "name": "推送",
             "type": 3,
             "api": "csp_Push",
-            "searchable": 0,
-            "quickSearch": 0,
+            "searchable": 1,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken"
+            "changeable": 0,
+            "ext": "http://ali.饭太硬.ml/alitoken","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "csp_XYQH外剧",
