@@ -1,5 +1,5 @@
 {
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3",
     //"wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "lives": [
         {
@@ -55,7 +55,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/fan/alist.json"
+            "ext": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/fan/alist1.json"
         },
 {"key":"csp_FanYY","name":"💦剥饭┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken"},
 //{"key": "csp_Alist2","name": "🅿小丫搜索","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://101.34.67.237/txt/json/alist.json"},
