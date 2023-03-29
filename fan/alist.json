@@ -5,8 +5,16 @@
       "server": "https://alistcn.repl.co"
     },
     {
-      "name": "小雅",
-      "server": "http://alist.xiaoya.pro"
+      "name": "小丫",
+      "server": "http://alist.xiaoya.pro/测试（不限速）/"
+    },
+    {
+      "name": "星梦",
+      "server": "https://pan.bashroot.top"
+    }
+    {
+      "name": "动漫盘",
+      "server": "http://pan.smjc.cc/自用Open/动画片/"
     },
     {
       "name": "杜比",
@@ -28,8 +36,8 @@
       "name": "米奇",
       "server": "https://anime.mqmmw.ga"
     },
-    {
-      "name": "觸光",
+    {{
+      "name": "触光",
       "server": "https://pan.ichuguang.com"
     },
     {
