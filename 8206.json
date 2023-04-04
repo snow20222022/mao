@@ -212,17 +212,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        //{
-            //"key": "csp_Paper",
-            //"name": "📜纸条┃4K",
-            //"type": 3,
-           // "api": "csp_Paper",
-           // "searchable": 1,
-           // "quickSearch": 1,
-           // "filterable": 1,
-           // "changeable": 0,
-           // "ext": "http://ali.饭太硬.ml/alitoken","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-        
+        {"key":"csp_Paper","name":"📜纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/7690.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
         {
             "key": "csp_Bttoo",
             "name": "✌BTtwo┃SP",
