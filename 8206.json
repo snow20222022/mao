@@ -28,7 +28,7 @@
         //{"key":"直播","name":"📡电视┃直播","type":3,"playerType":1,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/直播转点播.js","ext":"Box醒人室$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"},
         {
             "key": "csp_apple",
-            "name": "🍎苹果┃SP",
+            "name": "🍎苹果┃App",
             "type": 3,
             "api": "csp_LiteApple",
             "playerType": 1,
