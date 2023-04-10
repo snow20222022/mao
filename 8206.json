@@ -53,7 +53,7 @@
 //{"key": "csp_Alist2","name": "🅿小丫搜索","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://101.34.67.237/txt/json/alist.json"},
 {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:8080/token.txt","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.jar"},
 {"key":"Auete","name":"奥特","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b","jar":"https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/custom_spider.jar"},
-{"key":"csp_Xinsj","name":"🐼新视觉┃直连","type":3,"api":"csp_Xinsj","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
+//{"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/custom_spider.jar"},      
         {
             "key": "csp_fantuan",
             "name": "🍙饭团┃SP",
@@ -203,8 +203,16 @@
             "filterable": 1,
             "ext": "https://www.6080dy2.com"
         },
-        {"key":"csp_Czsapp","name":"📔厂长┃直连","type":3,"api":"csp_Czsapp","m3u8ads": "hd.youyhn.com","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"csp_Paper","name":"📜纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/7690.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
+        {
+            "key": "csp_Czsapp",
+            "name": "📔厂长┃SP",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {"key":"csp_Paper","name":"📜纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:8080/token.txt","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.jar"},
         {
             "key": "csp_Bttoo",
             "name": "✌BTtwo┃SP",
@@ -223,11 +231,34 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {"key":"csp_Cokemv","name":"📕可乐┃直连","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"csp_zxzj","name":"📗在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com"},
-{"key":"csp_zxzjH3","name":"📗在线H3┃影视","type":3,"api":"csp_ZxzjH3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com"},
-        {"key":"csp_Dy1010","name":"❤️双十┃直连","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-   
+        {
+            "key": "csp_Cokemv",
+            "name": "📕可乐┃SP",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_zxzj",
+            "name": "📗在线┃SP",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Dy1010",
+            "name": "❤️双十┃SP",
+            "type": 3,
+            "api": "csp_Dy1010",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "csp_DiDuan",
             "name": "⏮️低端┃SP",
@@ -246,7 +277,15 @@
             "quickSearch": 1,
             "filterable": 1
         },
-    {"key":"csp_Lgyy","name":"🌀蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
+        {
+            "key": "csp_Lgyy",
+            "name": "🌀蓝光┃SP",
+            "type": 3,
+            "api": "csp_Lgyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "csp_Auete",
             "name": "🏝Aue┃SP",
@@ -285,7 +324,15 @@
             "filterable": 1,
             "ext": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/fan/nmys.json"
         },
-        {"key":"csp_Ysgc","name":"🏭工厂┃直连","type":3,"api":"csp_Ysgc","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
+        {
+            "key": "csp_Ysgc",
+            "name": "🏭工厂┃SP",
+            "type": 3,
+            "api": "csp_Ysgc",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "csp_SP2345",
             "name": "💦2345┃SP",
@@ -295,14 +342,45 @@
             "quickSearch": 1,
             "filterable": 1
         },
-{"key":"csp_555","name":"5️⃣️555┃直连","type":3,"api":"csp_Ys555","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
-{"key":"csp_MeiJu69","name":"🗽69美剧┃直连","api":"csp_AppYsV2","type":3,"m3u8ads": "hd.youyhn.com","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
-
-{"key":"csp_SP33","name":"📺三三┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"Qtv","name":"🐧腾腾┃解析","type": 3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1,"changeable":0},
-{"key":"Itv","name":"🥝爱爱┃解析","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
-{"key":"Mtv","name":"🍋芒芒┃解析","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-
+        {
+            "key": "csp_SP360",
+            "name": "📺360┃SP",
+            "type": 3,
+            "api": "csp_SP360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "teng",
+            "name": "🐧腾腾┃解析",
+            "type": 3,
+            "api": "csp_QQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "ai",
+            "name": "🥝爱爱┃解析",
+            "type": 3,
+            "api": "csp_IQIYI",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "MGT",
+            "name": "🍋芒芒┃解析",
+            "type": 3,
+            "api": "csp_Mgtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
         {
             "key": "csp_Lib",
             "name": "🎉Lib┃SP",
