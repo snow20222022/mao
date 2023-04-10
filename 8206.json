@@ -24,7 +24,7 @@
     //],
     "sites": [
         {"key":"js豆瓣","name":"🅱豆豆┃推荐","type":3,"api":"http://v.tvfan.top:88/tvbox/js/drpy.min.js","ext":"http://v.tvfan.top:88/tvbox/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
-     {"key": "直播转点播","name": "直播转换","type": 3,"api": "https://pan.shangui.cc/f/Z2LIv/zbzdb.js","ext": "https://pan.shangui.cc/f/z23T0/zb.json"},
+         {"key": "直播转点播","name": "直播转换","type": 3,"api": "https://pan.shangui.cc/f/Z2LIv/zbzdb.js","ext": "https://pan.shangui.cc/f/z23T0/zb.json"},
         //{"key":"直播","name":"📡电视┃直播","type":3,"playerType":1,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/直播转点播.js","ext":"Box醒人室$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"},
         {
             "key": "csp_apple",
@@ -49,10 +49,10 @@
         },
 
         {"key":"csp_Alist1","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://饭太硬.ga/x/json/alist.json"},
-{"key":"csp_FanYY","name":"💦剥饭┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:8080/token.txt","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.jar"},
+{"key":"csp_FanYY","name":"💦剥饭┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/7690.txt"},
 //{"key": "csp_Alist2","name": "🅿小丫搜索","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://101.34.67.237/txt/json/alist.json"},
-{"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:8080/token.txt","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.jar"},
-{"key":"Auete","name":"奥特","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.jar"},
+{"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/7690.txt"},
+{"key":"Auete","name":"奥特","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b","jar":"https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/custom_spider.jar"},
 //{"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/custom_spider.jar"},      
         {
             "key": "csp_fantuan",
@@ -125,8 +125,16 @@
             "filterable": 1,
             "ext": "https://www.bulei.cc"
         },
-        
-        
+        {
+            "key": "csp_Yht",
+            "name": "🍀野荷塘┃SP",
+            "type": 3,
+            "api": "csp_Yht",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yehetang.cc"
+        },
         {
             "key": "csp_Slsp",
             "name": "🍅石榴┃SP",
@@ -204,17 +212,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-      "key": "csp_Paper",
-      "name": "🔖小纸条",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:8080/token.txt","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.jar"
-    },	
-        //{"key":"csp_Paper","name":"📜纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/7690.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
+        {"key":"csp_Paper","name":"📜纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/7690.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
         {
             "key": "csp_Bttoo",
             "name": "✌BTtwo┃SP",
@@ -549,38 +547,6 @@
             "ext": "http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234"
         }, 
         {
-            "key": "PanSou",
-            "name": "🦊盘搜┃4K",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:8080/token.txt","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.jar"
-        },
-        {
-            "key": "UpYun",
-            "name": "😻Up搜┃4K",
-            "type": 3,
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:8080/token.txt","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.jar"
-        },
-        {
-            "key": "push_agent",
-            "name": "🛴手机┃推送",
-            "type": 3,
-            "api": "csp_Push",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://127.0.0.1:8080/token.txt","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.jar"
-        },
-        {
             "key": "YiSo",
             "name": "😹易搜┃4K",
             "type": 3,
@@ -591,49 +557,38 @@
             "changeable": 0,
             "ext": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/7690.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
-        //{
-            //"key": "YiSo",
-            //"name": "😹易搜┃4K",
-            //"type": 3,
-            //"api": "csp_YiSo",
-            //"searchable": 1,
-            //"quickSearch": 1,
-            //"filterable": 0,
-           // "changeable": 0,
-           // "ext": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/7690.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-        //},
-        //{
-           // "key": "PanSou",
-           // "name": "🦊盘搜┃4K",
-           // "type": 3,
-           // "api": "csp_PanSou",
-           // "searchable": 1,
-           // "quickSearch": 1,
-            //"filterable": 0,
-            //"changeable": 0,
-           // "ext": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/7690.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-        //},
-       // {
-           // "key": "UpYun",
-           // "name": "😻Up搜┃4K",
-           // "type": 3,
-           // "api": "csp_UpYun",
-           // "searchable": 1,
-           // "quickSearch": 1,
-           // "filterable": 0,
-           // "changeable": 0,
-           // "ext": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/7690.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-        //},
-        //{
-            //"key": "push_agent",
-            //"name": "🛴手机┃推送",
-           // "type": 3,
-            //"api": "csp_Push",
-            //"searchable": 0,
-            //"quickSearch": 0,
-            //"filterable": 0,
-           // "ext": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/7690.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-       // },
+        {
+            "key": "PanSou",
+            "name": "🦊盘搜┃4K",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/7690.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+        },
+        {
+            "key": "UpYun",
+            "name": "😻Up搜┃4K",
+            "type": 3,
+            "api": "csp_UpYun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/7690.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+        },
+        {
+            "key": "push_agent",
+            "name": "🛴手机┃推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/7690.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+        },
         {
             "key": "csp_XYQH外剧",
             "name": "️🌸外剧┃XH",
