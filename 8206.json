@@ -126,14 +126,15 @@
             "ext": "https://www.bulei.cc"
         },
         {
-            "key": "csp_Yht",
-            "name": "🍀野荷塘┃SP",
-            "type": 3,
-            "api": "csp_Yht",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/fan/野荷塘.json","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.jar"
+        {
+	  "key": "csp_XYQHiker_野荷塘",
+	  "name":"🌷荷塘影院",
+	  "type":3,
+	  "api":"csp_XYQHiker",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/fan/野荷塘.json","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.jar"
         },
         {
             "key": "csp_Slsp",
