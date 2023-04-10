@@ -24,7 +24,7 @@
     //],
     "sites": [
         {"key":"js豆瓣","name":"🅱豆豆┃推荐","type":3,"api":"http://v.tvfan.top:88/tvbox/js/drpy.min.js","ext":"http://v.tvfan.top:88/tvbox/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
-     //{"key": "直播转点播","name": "直播转换","type": 3,"api": "https://pan.shangui.cc/f/Z2LIv/zbzdb.js","ext": "https://pan.shangui.cc/f/z23T0/zb.json"},
+     {"key": "直播转点播","name": "直播转换","type": 3,"api": "https://pan.shangui.cc/f/Z2LIv/zbzdb.js","ext": "https://pan.shangui.cc/f/z23T0/zb.json"},
         //{"key":"直播","name":"📡电视┃直播","type":3,"playerType":1,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/直播转点播.js","ext":"Box醒人室$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"},
         {
             "key": "csp_apple",
@@ -125,17 +125,8 @@
             "filterable": 1,
             "ext": "https://www.bulei.cc"
         },
-        {
-        {
-	  "key": "csp_XYQHiker_野荷塘",
-	  "name":"🌷荷塘影院",
-	  "type":3,
-	  "api":"csp_XYQHiker",
-	  "searchable":1,
-	  "quickSearch":1,
-	  "filterable":1,
-	  "ext": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/fan/野荷塘.json","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.jar"
-        },
+        
+        
         {
             "key": "csp_Slsp",
             "name": "🍅石榴┃SP",
