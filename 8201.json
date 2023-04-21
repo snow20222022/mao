@@ -17,9 +17,9 @@
 {"key":"csp_apple","name":"🍎苹果┃App","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key": "直播转点播","name": "直播转换","type": 3,"api": "https://pan.shangui.cc/f/Z2LIv/zbzdb.js","ext": "https://pan.shangui.cc/f/z23T0/zb.json"},
 {"key":"csp_Alist1","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://饭太硬.ga/x/json/alist.json"},
-{"key":"csp_FanYY","name":"💦剥饭┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://fastly.jsdelivr.net/gh/snow20222022/mao@main/7690.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
-{"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://fastly.jsdelivr.net/gh/snow20222022/mao@main/7690.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
-{"key":"csp_Paper","name":"📜纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://fastly.jsdelivr.net/gh/snow20222022/mao@main/7690.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
+{"key":"csp_FanYY","name":"💦剥饭┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://fastly.jsdelivr.net/gh/snow20222022/mao@main/7690.txt"},
+{"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://fastly.jsdelivr.net/gh/snow20222022/mao@main/7690.txt"},
+{"key":"csp_Paper","name":"📜纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://fastly.jsdelivr.net/gh/snow20222022/mao@main/7690.txt"},
 
 {"key":"csp_YQKAPP","name":"🎉一起看┃App","type":3,"api":"csp_YQKAPP","playerType":2,"m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.11ty.top"},
 {"key":"csp_kuaikan","name":"👀快看┃App","type":3,"api":"csp_Kuaikan","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
