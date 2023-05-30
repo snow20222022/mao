@@ -6,7 +6,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         }
     ],
