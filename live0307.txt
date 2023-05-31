@@ -26,7 +26,8 @@ NewTV动作电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225678/index.
 贝爷MAX厅,http://epg.112114.xyz/douyu/4332
 漫威影片,http://epg.112114.xyz/douyu/6140589
 欧美大片,https://magselect-stirr.amagi.tv/playlist1080p.m3u8
-
+HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
