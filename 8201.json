@@ -12,7 +12,7 @@
     ],
 
 "sites":[  
- {"key": "熊","name":"🧸┃熊熊┃影视(CJ)","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.i597.cc/?url=","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},          
+ //{"key": "熊","name":"🧸┃熊熊┃影视(CJ)","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.i597.cc/?url=","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},          
 {"key":"js豆瓣","name":"🅱豆瓣推荐","type":3,"api":"http://v.tvfan.top:88/tvbox/js/drpy.min.js","ext":"http://v.tvfan.top:88/tvbox/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"csp_apple","name":"🍎苹果┃App","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key": "直播转点播","name": "直播转换","type": 3,"api": "https://pan.shangui.cc/f/Z2LIv/zbzdb.js","ext": "https://pan.shangui.cc/f/z23T0/zb.json"},
