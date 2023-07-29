@@ -14,7 +14,7 @@
 {"key": "直播转点播","name": "直播转换","type": 3,"api": "https://pan.shangui.cc/f/Z2LIv/zbzdb.js","ext": "https://pan.shangui.cc/f/z23T0/zb.json"},
 { "key":"drpy_js_荐片", "name":"荐片[js]", "type":3, "api":"https://xhdwc.tk/lib/drpy2.min.js", "ext":"https://xhdwc.tk/js/荐片.js", "playerType":"1","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"}, 
         {"key": "点播","name": "MTV","type": 3,"api": "https://qu.ax/erVy.js","ext":"https://qu.ax/HJtp.txt"},       
-{"key": "888解忧愁","name": "888解忧愁","type": 4,"api": "https://private--t410.repl.co/888","searchable": 0,"quickSearch": 0,"filterable": 1,"changeable": 0},
+{"key":"csp_New6v","name":"新6v","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.66ss.org","jar":"https://qu.ax/qokd.jpg"},
  //{"key":"csp_Alist1","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://饭太硬.ga/x/json/alist.json"},
 //{"key": "csp_DuoX","name": "💢多线┃App","type": 3,"api": "csp_DuoX","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url="},
 {"key":"csp_DuoX","name":"💢多线┃APP","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
