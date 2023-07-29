@@ -6,7 +6,39 @@
 
 
 "sites":[
-
+        {
+            "key": "夜幕",
+            "name": "️夜夜┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "站名": "夜光影视",
+                "主页url": "https://nibaymovie.com/",
+                "分类url": "https://nibaymovie.com/vodshow/{cateId}--------{catePg}---{year}.html;;v",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+                "图片": "data-original=\"&&\"",
+                "链接": "href=\"&&\"",
+                "搜索模式": "1",
+                "搜索url": "https://nibaymovie.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
+                "搜索二次截取": "\"list\":[&&]",
+                "搜索数组": "{&&}",
+                "搜索标题": "\"name\":\"&&\"",
+                "搜索图片": "\"pic\":\"&&\"",
+                "搜索链接": "https://nibaymovie.com/voddetail/+\"id\":&&,+html",
+                "跳转播放链接": "https://nibaymovie.com/vod/play/?url=+vod_class*url\":\"&&\"",
+                "二次跳转播放链接": "https://nibaymovie.com/vod/play/API.php;post;url=+\"url\"*\"&&\"+&ac=jx",
+                "三次跳转播放链接": "\"url\"*\"&&\"",
+                "年代": "年份：&&</a>",
+                "地区": "地区：&&</a>",
+                "类型": "类型：&&</a>",
+                "导演": "导演：&&</p>",
+                "主演": "主演：&&</p>",
+                "简介": "<p>&&</p>"
+            }
+        },
 {"key":"TV采集","name":"TV采集","type":1,"api":"http://tvcaiji.pankk.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"考拉直链","name":"考拉直链","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
