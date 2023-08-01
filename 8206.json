@@ -108,8 +108,8 @@
 {"key":"csp_Nbys","name":"🛫泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_If101","name":"🛫 If101┃飞","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_trj","name": "🛫唐人街┃飞","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
-
-     { "key": "探探",
+{
+      "key": "探探",
       "name": "♻️业余┃影探4K",
       "type": 3,
       "playerType": "1",
@@ -117,7 +117,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar":"https://pan.shangui.cc/f/b4KYH1/fan727.jar;md5;91b04592e14b3cc30f34c1324a59e8ad"
+      "jar":"https://pan.shangui.cc/f/b4KYH1/fan727.jar"
     },
 {
             "key": "俊俊",
