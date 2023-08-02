@@ -189,7 +189,14 @@
 {"key":"drpy_js_博看听书","name":"听书 | 博看听书[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/博看听书.js","playerType":"2"},
 {"key":"drpy_js_海洋听书","name":"听书 | 海洋听书[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/海洋听书.js","playerType":"2"},
 {"key":"drpy_js_听书网","name":"听书 | 听书网[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/听书网.js","playerType":"2"},
-
+{"key":"KubaCL","name":"影视 | 酷吧 | 磁","type":3,"api":"csp_KubaCL","playerType":"1", "changeable":0},
+{"key":"MeijuMi","name":"影视 | 美剧迷 | 磁","type":3,"api":"csp_MeijuMi","playerType":"1", "changeable":0},
+{"key":"MeijuTT","name":"影视 | 美剧天天 | 磁","type":3,"api":"csp_MeijuTT","playerType":"1", "changeable":0},
+{"key":"Mp4Mov","name":"影视 | Mp4Mov | 磁","type":3,"api":"csp_Mp4Mov","playerType":"1", "changeable":0},
+{"key":"New6v","name":"影视 | 新版6v | 磁","type":3,"api":"csp_New6v","playerType":"1", "changeable":0},
+{"key":"SeedHub","name":"影视 | SeedHub | 磁","type":3,"api":"csp_SeedHub","playerType":"1", "changeable":0},
+{"key":"Gitcafe", "name": "阿里 | 小纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/7690.txt+fhd|auto|4k" },
+{"key":"找資源", "name":"阿里 | 找資源", "type":3, "api":"csp_Zhaozy", "searchable":1, "quickSearch":1, "filterable": 0, "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/7690.txt+fhd|auto|4k" },
 
 
         
