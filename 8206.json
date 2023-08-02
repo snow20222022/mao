@@ -1,11 +1,6 @@
 {
 "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
-//"doh":[{"name":"騰訊","url":"https://doh.pub/dns-query"},//{"name":"阿里","url":"https://dns.alidns.com/dns-query"},
-        //{"name":"360","url":"https://doh.360.cn/dns-query"},//{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
-        //{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
-        //{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},
-        //{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
-        //{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
+
         
 "sites":[     
 {"key":"js豆瓣","name":"🅱豆瓣推荐","type":3,"api":"https://pan.shangui.cc/f/x7pBUZ/drpy.min.js","ext": "https://pan.shangui.cc/f/bA8Qc1/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
@@ -86,16 +81,16 @@
 {"key":"csp_XYQHiker_有声小说吧","name":"🎧有声┃小说","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/fan/有声小说吧.json"},
 //{"key":"csp_Alist1","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"ext":"http://饭太硬.ga/x/json/alist.json"},
 
-{"key":"七夜","name":"😾七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/7690.txt+fhd|auto|4k"},
-{"key":"Zhaozy","name":"🐺找资源┃4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+fhd|auto|4k$$$fongmi66$$$fongmi66"},
-{"key":"YiSo","name":"😹易搜┃4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/7690.txt+fhd|auto|4k"},
-{"key":"PanSou","name":"🦊盘搜┃4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/7690.txt+fhd|auto|4k"},
-{"key":"TuGou","name":"😿土狗┃搜索","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/7690.txt+fhd|auto|4k"},
-{"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/7690.txt+fhd|auto|4k"},
-{"key":"UpYun","name":"😻Up搜┃4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/7690.txt+fhd|auto|4k"},
+{"key":"七夜","name":"😾七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/7690.txt+auto|4k|fhd"},
+{"key":"Zhaozy","name":"🐺找资源┃4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$fongmi66$$$fongmi66"},
+{"key":"YiSo","name":"😹易搜┃4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/7690.txt+auto|4k|fhd"},
+{"key":"PanSou","name":"🦊盘搜┃4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/7690.txt+auto|4k|fhd"},
+{"key":"TuGou","name":"😿土狗┃搜索","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/7690.txt+auto|4k|fhd"},
+{"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/7690.txt+auto|4k|fhd"},
+{"key":"UpYun","name":"😻Up搜┃4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/7690.txt+auto|4k|fhd"},
 //{"key":"土拨鼠","name":"🖥土拨鼠搜索","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/tuboshu.json","jar":"https://weixine.net/YSC.jar"},
-{"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/7690.txt+fhd|auto|4k"},        
-{"key": "csp_XYQHiker_土拨鼠搜索","name":"📀土拨鼠(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/土拨鼠搜索.json$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/7690.txt+fhd|auto|4k","jar":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar"},
+{"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/7690.txt+auto|4k|fhd"},        
+//{"key": "csp_XYQHiker_土拨鼠搜索","name":"📀土拨鼠(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/土拨鼠搜索.json$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/7690.txt+fhd|auto|4k","jar":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar"},
 
         
 //{"key":"Zhaozy","name":"🐺找资源┃4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken$$$fongmi66$$$fongmi66"},
@@ -197,8 +192,6 @@
 {"key":"Mp4Mov","name":"影视 | Mp4Mov | 磁","type":3,"api":"csp_Mp4Mov","playerType":"1", "changeable":0},
 {"key":"New6v","name":"影视 | 新版6v | 磁","type":3,"api":"csp_New6v","playerType":"1", "changeable":0},
 {"key":"SeedHub","name":"影视 | SeedHub | 磁","type":3,"api":"csp_SeedHub","playerType":"1", "changeable":0},
-{"key":"Gitcafe", "name": "阿里 | 小纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/7690.txt+fhd|auto|4k" },
-{"key":"找資源", "name":"阿里 | 找資源", "type":3, "api":"csp_Zhaozy", "searchable":1, "quickSearch":1, "filterable": 0, "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/7690.txt+fhd|auto|4k" },
 
 
         
