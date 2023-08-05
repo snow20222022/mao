@@ -1,8 +1,15 @@
 轮播,#genre#
 高帧电影,http://epg.112114.xyz/douyu/431460
 女神影院,https://pull.kktv8.com/livekktv/99350550.flv
-金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+科幻动作经典喜剧,http://epg.112114.xyz/douyu/4332
+经典科幻动作灾难,http://epg.112114.xyz/douyu/252802
+科幻影视,http://epg.112114.xyz/douyu/3508304
+60帧极致蓝光,http://epg.112114.xyz/douyu/747764
+经典神剧,http://epg.112114.xyz/douyu/3700024
+华语经典,http://epg.112114.xyz/douyu/434971
+神乐影片2,http://epg.112114.xyz/douyu/85894
+霍格影片,http://epg.112114.xyz/douyu/8814650
+奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
 午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
 黑莓电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
 NewTV动作电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225620/index.m3u8
