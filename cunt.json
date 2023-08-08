@@ -1,7 +1,7 @@
 // 配置地址 --> clan://localhost/TVBox/cunt.json
 
 {
-"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/custom_spider (9).jar",
+"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/fm.jar",
 "lives": [
         {
             "name": "live",
