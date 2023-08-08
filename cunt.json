@@ -1,9 +1,17 @@
 // 配置地址 --> clan://localhost/TVBox/cunt.json
 
 {
-"spider":"https://snow20222022.github.io/mao/custom_spider (9).jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMjk5MDIvMEVSY3pJMGJfekIudHh0P3NpZ249RHMyWW43SjY4eUVpN2FaS0pKcHUtN01hck1xZUlCLXlKbEotZGRacDJBVSUzRCUzQTA="]}]}],
-
+"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/custom_spider (9).jar",
+"lives": [
+        {
+            "name": "live",
+            "type": 0,
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/sex.txt",
+            "playerType": 1,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ],
 
 "sites":[
 
