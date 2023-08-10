@@ -1,6 +1,9 @@
 轮播,#genre#
 高帧电影,http://epg.112114.xyz/douyu/431460
 女神影院,https://pull.kktv8.com/livekktv/99350550.flv
+中国功夫，http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+黑莓电影，http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 科幻动作经典喜剧,http://epg.112114.xyz/douyu/4332
 经典科幻动作灾难,http://epg.112114.xyz/douyu/252802
 科幻影视,http://epg.112114.xyz/douyu/3508304
