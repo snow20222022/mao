@@ -91,19 +91,6 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
-直播源,#genre#
-虎牙一起看,https://www.goodiptv.club/huyayqk.m3u    
-斗鱼一起看,https://www.goodiptv.club/douyuyqk.m3u   
-YY轮播,https://www.goodiptv.club/yylunbo.m3u    
-Ftindy大神,#genre#
-4K/8K源,https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u   
-BESTV源,https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u    
-GHYX源,https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/ghyx.m3u    
-SXG-IPV6源,https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u    
-爱尚源,https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/aishang.m3u    
-CQYX源,https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u    
-ITOUCH源,https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/itouch.m3u   
-YQGD源,https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u    
 
 
 
