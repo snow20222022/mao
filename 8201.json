@@ -137,7 +137,8 @@
         "name": "猫厂长资源",
         "type": 3,
         "api": "https://qu.ax/yZka.js"
-      },       
+      }, 
+ {"key":"csp_appys_影探","name":"❤影探主接口|4K","type": 3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"style":{"type":"rect","ratio":1.33},"filterable":1,"ext": "http://yt22106.lfytyl.com/api.php/app/","jar":"https://qu.ax/QdLc.jpg;md5;fd6a2cf8f31c7112731c5f90dab94847"},       
 {"key":"红红","name":"🌈红红┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bbq.1006.tk/icciu_api.php/v1.vod"},
 {"key":"黄黄","name":"😎黄黄┃App","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 {"key":"csp_Bd","name":"💥哔嘀┃直连","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
@@ -263,6 +264,15 @@
 {"name":"我","type":1,"url":"https://json.key521.cn/api/?key=a161dfbdceebcd60c72bc1a87b1f3281&url="},
 {"name":"再","type":1,"url":"http://47.108.39.237:55/api/jsonindex.php/?key=dp2xOsl8Nws8uFdY0E&url="},
 {"name":"找来","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}}
+{"name": "大厂1","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="},
+{"name": "大厂2","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2255&my=eknpqvADFHOPR02458&format=json&url="},
+{"name": "大厂3","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2100&my=ehilmnqyCDGHILNUXZ&mgtv=app&url="},
+
+{"name": "蓝鹰2","type": 1,"url": "http://139.159.239.156:88/api/?key=vmft4BZienphzLd0LU&url="},
+{"name":"影探A","type": 1,"url":"https://epay.99xim.cn/ccc/?url=","ext": {"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},  
+{"name":"影探B","type": 1,"url": "http://lflong.lyyytv.cn/json.php?url=","ext": {"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},  
+{"name":"影探C","type": 1,"url":"https://kk.hdjh.xyz/home/api?type=ys&uid=5282164&key=cdfqstuwCFJSTWX679&url=","ext": {"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},  
+{"name":"影探D","type":1,"url":"http://m3u8.lyyytv.cn/json.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
 ],
 
 "rules": [
