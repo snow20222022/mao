@@ -138,7 +138,7 @@
         "type": 3,
         "api": "https://qu.ax/yZka.js"
       }, 
- {"key":"csp_appys_影探","name":"❤影探主接口|4K","type": 3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"style":{"type":"rect","ratio":1.33},"filterable":1,"ext": "http://yt22106.lfytyl.com/api.php/app/","jar":"https://qu.ax/QdLc.jpg;md5;fd6a2cf8f31c7112731c5f90dab94847"},       
+ //{"key":"csp_appys_影探","name":"❤影探主接口|4K","type": 3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"style":{"type":"rect","ratio":1.33},"filterable":1,"ext": "http://yt22106.lfytyl.com/api.php/app/","jar":"https://qu.ax/QdLc.jpg;md5;fd6a2cf8f31c7112731c5f90dab94847"},       
 {"key":"红红","name":"🌈红红┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bbq.1006.tk/icciu_api.php/v1.vod"},
 {"key":"黄黄","name":"😎黄黄┃App","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 {"key":"csp_Bd","name":"💥哔嘀┃直连","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
