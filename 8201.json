@@ -209,7 +209,7 @@
 {"key":"csp_If101","name":"🛫 If101┃飞","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_trj","name": "🛫唐人街┃飞","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"drpy_js_磁力熊[磁]","name":"🧲磁力 | 磁力熊[磁][js]","type":3,"api":"https://qu.ax/NtMt.js","ext":"https://qu.ax/zGrL.js"}, 
-{"key":"csp_New6v","name":"新6v","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.xb6v.com","jar":"https://qu.ax/qokd.jpg"},
+//{"key":"csp_New6v","name":"新6v","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.xb6v.com","jar":"https://qu.ax/qokd.jpg"},
 {"key":"csp_New6v","name":"新6v","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.66ss.org","jar":"https://qu.ax/qokd.jpg"},
 
 {"key":"drpy_js_荐片","name":"荐片 | 影视[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},
@@ -237,7 +237,7 @@
 {"key":"Mp4Mov","name":"影视 | Mp4Mov | 磁","type":3,"api":"csp_Mp4Mov","playerType":"1", "changeable":0},
 {"key":"New6v","name":"影视 | 新版6v | 磁","type":3,"api":"csp_New6v","playerType":"1", "changeable":0},
 {"key":"SeedHub","name":"影视 | SeedHub | 磁","type":3,"api":"csp_SeedHub","playerType":"1", "changeable":0},
-{"key": "push_agent","name": "cli推送","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Push","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/7690.txt"},
+//{"key": "push_agent","name": "cli推送","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Push","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/7690.txt"},
 
 
 
