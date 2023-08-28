@@ -15,8 +15,7 @@
 {"key": "csp_Bili","name": "🅱哔哔┃合集","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "http://饭太硬.top/x/json/bilibili.json"},
 {"key": "csp_Biliych","name": "🅱哔哔┃演唱会","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "http://饭太硬.top/x/json/biliych.json"},
 {"key": "YGP","name": "🚀叨观荐影┃速递","type": 3,"api": "csp_YGP","searchable": 0,"quickSearch": 0,"changeable": 0},
-{"key": "4KHDR","name": "🧲世界磁力┃慎用","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 0,"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js"},
-{"key": "jiyingw","name": "🧲Mp4磁力┃慎用","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 0,"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/mp4us.js"},
+
 {"key":"csp_fantuan","name":"🍙饭团┃直连","type":3,"api":"csp_Fantuan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuan3.com"},
 {"key": "探探","name": "🏵探探┃App","type": 3,"playerType": "1","api": "csp_YTVIP","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://smallmi.xiaohewanwan.love:63/cili/fan.txt"},
 {"key": "奇奇","name": "🍓奇奇┃直连","type": 1,"api": "http://www.csykkj.club/api.php/provide/vod/from/qiqi","playUrl": "json:http://lgg.llwwwll.com:5477/home/api?type=ys&uid=387611&key=ahnrvxyzCDGJKPY137&url=","searchable": 1,"quickSearch": 1,"categories": ["电影","连续剧","综艺","动漫"]},
@@ -32,15 +31,11 @@
 {"key":"迷你库","name":"迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/","jar":"https://jihulab.com/duomv/duox/-/raw/main/custom_spider.jar"},
 {"key":"奇奇","name":"奇奇","type":1,"api":"http://www.csykkj.club/api.php/provide/vod/from/qiqi","searchable":1,"quickSearch":1,"categories":["综艺","连续剧","电影","动漫"]},
 {"key":"影探","name":"影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://long123.lfytyl.com/api.php/app/"},
-
-
-        //{"key": "csp_Alist1","name": "❤罗汉果","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 0,"style":{ "type":"rect", "ratio":1.33 },"filterable": 0,"changeable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/js/luohanguo.txt","jar":"https://qu.ax/hvUa.js"},
-//{"key":"drpy_js_极影网","name":"影视 | 极影网[js] | 磁","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/js/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/js/jiyingw.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":0},
-//{"key":"drpy_js_MP4US","name":"影视 | MP4电影[js] | 磁","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/js/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/js/mp4us.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":0},
-//{"key":"drpy_js_电影港","name":"影视 | 电影港[js] | 磁","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/js/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/js/dygang.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":0},
-
-
-        //{"key":"csp_Paper","name":"📜纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt"},
+{"key": "4KHDR","name": "🧲世界磁力┃慎用","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 0,"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js"},
+{"key": "jiyingw","name": "🧲Mp4磁力┃慎用","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 0,"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/mp4us.js"},
+{"key": "新6V","name": "🧲新6V磁力┃慎用","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://www.xb6v.com/"},
+        
+       
 //{"key":"csp_Bili","name":"🅱哔哔┃合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 0,"changeable":0,"ext":"https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/fan/bilibili.json"},
 //{"key":"csp_Biliych","name":"🅱哔哔┃演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 1,"changeable":0,"ext":"https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/fan/biliych.json"},
 {"key": "熊","name": "🍢熊","type": 1,"api": "https://ghproxy.com/https://github.com/snow20222022/mao/blob/main/vod","playUrl": "https://player.3412.net.cn/?url=","searchable": 1,"quickSearch": 1,"filterable":1},
