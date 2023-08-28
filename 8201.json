@@ -15,22 +15,19 @@
 {"key": "csp_Bili","name": "🅱哔哔┃合集","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "http://饭太硬.top/x/json/bilibili.json"},
 {"key": "csp_Biliych","name": "🅱哔哔┃演唱会","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "http://饭太硬.top/x/json/biliych.json"},
 {"key": "YGP","name": "🚀叨观荐影┃速递","type": 3,"api": "csp_YGP","searchable": 0,"quickSearch": 0,"changeable": 0},
-
+{"key": "探探","name": "🏵影探┃App","type": 3,"playerType": "1","api": "csp_YTVIP","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "vip.lyyytv.cn"},
+{"key": "移动云盘","name": "移动云盘","type": 1, "playerType":1,"api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1},
 {"key":"csp_fantuan","name":"🍙饭团┃直连","type":3,"api":"csp_Fantuan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuan3.com"},
-{"key": "探探","name": "🏵探探┃App","type": 3,"playerType": "1","api": "csp_YTVIP","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://smallmi.xiaohewanwan.love:63/cili/fan.txt"},
 {"key": "奇奇","name": "🍓奇奇┃直连","type": 1,"api": "http://www.csykkj.club/api.php/provide/vod/from/qiqi","playUrl": "json:http://lgg.llwwwll.com:5477/home/api?type=ys&uid=387611&key=ahnrvxyzCDGJKPY137&url=","searchable": 1,"quickSearch": 1,"categories": ["电影","连续剧","综艺","动漫"]},
 {"key": "哈喽","name": "✌哈喽┃App","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://www.miniku.cc/xgapp.php/v1/"},
-        //{"key":"探探","name":"🏵探探┃App","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "迪迪","name": "😎迪迪┃App","api": "csp_AppYsV2","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://api123.adys.app/xgapp.php/v3/"},        
 {"key": "酷酷","name": "💡酷酷┃App","type": 3,"api": "csp_AppYsV2","ext": "http://ys.realdou.cn/api.php/app/","categories": ["4K电影","4K电视剧"]},        
 {"key": "csp_DuoX","name": "💢多线┃App","type": 3,"api": "csp_DuoX","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url="},
-//{"key": "探探","name": "🏵探探┃App","type": 3,"api": "csp_YT","searchable": 1,"quickSearch": 1,"changeable": 0},
 {"key": "陌陌","name": "🍄陌陌┃直连","type": 3,"api": "csp_MmYs","searchable": 1,"quickSearch": 1,"changeable": 0},
         
 {"key":"北极狐","name":"北极狐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/","jar":"https://jihulab.com/duomv/duox/-/raw/main/custom_spider.jar"},
 {"key":"迷你库","name":"迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/","jar":"https://jihulab.com/duomv/duox/-/raw/main/custom_spider.jar"},
 {"key":"奇奇","name":"奇奇","type":1,"api":"http://www.csykkj.club/api.php/provide/vod/from/qiqi","searchable":1,"quickSearch":1,"categories":["综艺","连续剧","电影","动漫"]},
-{"key":"影探","name":"影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://long123.lfytyl.com/api.php/app/"},
 {"key": "4KHDR","name": "🧲世界磁力┃慎用","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 0,"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js"},
 {"key": "jiyingw","name": "🧲Mp4磁力┃慎用","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 0,"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/mp4us.js"},
 {"key": "新6V","name": "🧲新6V磁力┃慎用","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://www.xb6v.com/"},
@@ -91,17 +88,7 @@
   "播放链接": "playurl"
 }
 },
- {
-      "key": "探探",
-      "name": "♻️业余┃影探4K",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_YT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "jar":"https://pan.shangui.cc/f/b4KYH1/fan727.jar"
-    },
+ 
 {
             "key": "俊俊",
             "name": "俊俊(v2)",
