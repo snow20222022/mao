@@ -131,24 +131,7 @@
             "filterable": 1,
             "api": "https://qu.ax/dmMW.js"
 },
-{
-        "key": "kkys",
-        "name": "猫快看高清",
-        "type": 3,
-        "api": "https://qu.ax/QBtV.js"
-     },
-  {
-        "key": "kuyun77_open",
-        "name": "猫酷云77",
-        "type": 3,
-        "api": "https://qu.ax/zAuw.js"
-      },
-  {
-        "key": "czzy",
-        "name": "猫厂长资源",
-        "type": 3,
-        "api": "https://qu.ax/yZka.js"
-      },
+
 {"key":"drpy_js_荐片","name":"荐片 | 影视[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},
  {"key":"drpy_js_爱看机器人","name":"爱看 | 机器[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"},
 {"key":"csp_TuGou","name":"阿里 ┃ 土狗[4K]","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt"},	
