@@ -17,7 +17,12 @@
 {"key":"csp_woggcli","name":"📶俊哥玩偶┃CLi","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=acb98592a59d44318c01e544e057b70a","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "探探","name": "🏵影探┃App","type": 3,"playerType": "1","api": "csp_YTVIP","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "vip.lyyytv.cn"},
 {"key": "移动云盘","name": "移动云盘","type": 1, "playerType":1,"api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1},
-{"key": "csp_Bili","name": "🅱哔哔┃合集","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "http://饭太硬.top/x/json/bilibili.json"},
+
+{"key":"drpy_js_348电影网","name":"影视 | 348电影网[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/348电影网.js"},
+{"key":"星影1080cms","name":"星影1080 | APP","type":1,"api":"https://www.xy1080.net/api.php/provide/vod","searchable":1,"quickSearch":1},
+{"key":"高清视界","name":"🌺视界 | APP","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1, "style":{"type":"rect", "ratio":1.33 }, "ext":"http://www.1080dyw.cc/api.php/v1.vod"},       
+        
+        {"key": "csp_Bili","name": "🅱哔哔┃合集","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "http://饭太硬.top/x/json/bilibili.json"},
 {"key": "csp_Biliych","name": "🅱哔哔┃演唱会","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "http://饭太硬.top/x/json/biliych.json"},
 {"key": "YGP","name": "🚀叨观荐影┃速递","type": 3,"api": "csp_YGP","searchable": 0,"quickSearch": 0,"changeable": 0},
 {"key":"csp_DuoX","name":"💢多线┃APP","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
