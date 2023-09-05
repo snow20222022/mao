@@ -17,6 +17,14 @@
 {"key":"csp_woggcli","name":"📶俊哥玩偶┃CLi","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=acb98592a59d44318c01e544e057b70a","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "探探","name": "🏵影探┃App","type": 3,"playerType": "1","api": "csp_YTVIP","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "vip.lyyytv.cn"},
 {"key": "移动云盘","name": "移动云盘","type": 1, "playerType":1,"api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1},
+
+{"key":"csp_Xunlei8","name":"🧲迅雷吧","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
+ {"key" : "drpy_js_蛋蛋剧","name" : "🥚蛋蛋影视剧","type" : 3,"api" : "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext" : "https://jihulab.com/ygbh1/box/-/raw/main/yg/js/%E8%9B%8B%E8%9B%8B%E5%89%A7.js"},       
+{"key": "瑞丰","name": "🌈彩虹影视","type": 3,"api": "csp_AppYs","jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9","searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},       
+{"key":"畅梦","name":"🍋畅梦秒播","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/changmeng.js"},        
+{"key":"csp_Ddys","name":"⛳低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
+
+
         
         {"key": "csp_Bili","name": "🅱哔哔┃合集","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "http://饭太硬.top/x/json/bilibili.json"},
 {"key": "csp_Biliych","name": "🅱哔哔┃演唱会","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "http://饭太硬.top/x/json/biliych.json"},
