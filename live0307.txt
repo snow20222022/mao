@@ -1,4 +1,7 @@
 轮播,#genre#
+龙华电影台，https://pull-l3-activity.ixigua.com/live/stream-7c4301f3ec1b9c970db0af9d1c07e66f.m3u8
+美亚电影香港，https://pull-l3-activity.ixigua.com/live/stream-b16e0049bdda5f54e62d3c9b694d81ff.m3u8
+美亚电影台湾，https://pull-l3-activity.ixigua.com/live/stream-4b7a860a41c30245fdec6983a633d264.m3u8
 高帧电影,http://epg.112114.xyz/douyu/431460
 女神影院,https://pull.kktv8.com/livekktv/99350550.flv
 中国功夫，http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
