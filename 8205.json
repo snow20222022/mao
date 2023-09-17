@@ -9,7 +9,7 @@
 {"key":"csp_JavDb", "name":"🧲JavDb", "type":3, "api":"csp_JavDb", "searchable":1, "quickSearch":1, "filterable":1, "viewType": 5, 
 "timeout":60,
 "jar": "https://agit.ai/weigs/w/raw/branch/master/jar/javdb.png" },
-{"key":"csp_JavDb", "name":"🧲JavBusb", "type":3, "api":"csp_JavBus", "searchable":1, "quickSearch":1, "filterable":1, "viewType": 5, 
+{"key":"csp_JavBus", "name":"🧲JavBusb", "type":3, "api":"csp_JavBus", "searchable":1, "quickSearch":1, "filterable":1, "viewType": 5, 
 "timeout":60,
 "jar": "https://agit.ai/weigs/w/raw/branch/master/jar/javdb.png" },
 
