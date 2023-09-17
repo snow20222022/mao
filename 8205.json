@@ -14,8 +14,8 @@
 "jar": "https://agit.ai/weigs/w/raw/branch/master/jar/javdb.png" },
 
 {"key":"csp_Xunlei8","name":"🧲迅雷吧","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
-{ "key":"csp_JavDb","name":"🧲JavDb","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":60,"style":{ "type":"rect", "ratio":1.33 },"ext":"$$$socks5://192.168.101.1:1080"}, 
-        { "key":"csp_JavBus","name":"🧲JavBus","type":3,"api":"csp_JavBus","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":60,"style":{ "type":"rect", "ratio":1.33 },"ext":"$$$socks5://192.168.101.1:1080"},
+//{ "key":"csp_JavDb","name":"🧲JavDb","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":60,"style":{ "type":"rect", "ratio":1.33 },"ext":"$$$socks5://192.168.101.1:1080"}, 
+        //{ "key":"csp_JavBus","name":"🧲JavBus","type":3,"api":"csp_JavBus","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":60,"style":{ "type":"rect", "ratio":1.33 },"ext":"$$$socks5://192.168.101.1:1080"},
         {"key" : "drpy_js_蛋蛋剧","name" : "🥚蛋蛋影视剧","type" : 3,"api" : "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext" : "https://jihulab.com/ygbh1/box/-/raw/main/yg/js/%E8%9B%8B%E8%9B%8B%E5%89%A7.js"},       
 {"key": "瑞丰","name": "🌈彩虹影视","type": 3,"api": "csp_AppYs","jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9","searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},       
 {"key":"畅梦","name":"🍋畅梦秒播","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/changmeng.js"},        
