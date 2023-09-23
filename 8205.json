@@ -2,7 +2,8 @@
 "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
 
         
-"sites":[     
+"sites":[ 
+{"key": "麻豆影视","name": "🐱 麻豆影视","type": 3,"api": "https://qu.ax/ZLLo.js","ext": "https://www.1080dyw.cc/api.php/v1.vod"},        
 {"key":"js豆瓣","name":"🅱豆瓣推荐","type":3,"api":"https://pan.shangui.cc/f/x7pBUZ/drpy.min.js","ext": "https://pan.shangui.cc/f/bA8Qc1/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "jszy","name": "极速资源 ","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "maolv_open","name": "影视|毛驴","type": 3,"api": "csp_Maolv","searchable": 1,"quickSearch": 1,"filterable": 0,"jar":"https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"},
