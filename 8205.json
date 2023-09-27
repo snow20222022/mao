@@ -27,7 +27,8 @@
 {"key":"星影1080cms","name":"星影1080 | APP","type":1,"api":"https://www.xy1080.net/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"高清视界","name":"🌺视界 | APP","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1, "style":{"type":"rect", "ratio":1.33 },"ext":"http://www.1080dyw.cc/api.php/v1.vod"       },
 {"key": "dadou","name": "大豆高清","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "https://www.dadou.cm/api.php/provide/vod/"},
-
+{"key": "蚂蚁","name": "🐜蚂蚁┃直连","type": 3,"api": "csp_Mayiys","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://rzys.xyz"},
+{"key": "毛驴","name": "🍓毛驴┃App","type": 3,"api": "csp_Maolv","searchable": 1,"quickSearch": 1,"changeable": 1},        
 
 
         
