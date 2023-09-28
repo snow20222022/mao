@@ -4,7 +4,8 @@
         
 "sites":[ 
 {"key": "Hdhive","name": "影巢","type": 3,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/fm.nogo.jar"},
- {"key": "49zy","name": "49资源/🚀国外 ","type": 1,"api": "https://49zyw.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},      
+ {"key":"csp_xBPQ_新香蕉中文字幕","name":"新香蕉中文字幕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar","ext":"https://agit.ai/weigs/w/raw/branch/master/666/新香蕉中文字幕.json"},
+        {"key": "49zy","name": "49资源/🚀国外 ","type": 1,"api": "https://49zyw.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},      
 {"key": "麻豆影视","name": "🐱 麻豆影视","type": 3,"api": "https://qu.ax/ZLLo.js","ext": "https://www.1080dyw.cc/api.php/v1.vod"},        
 {"key":"js豆瓣","name":"🅱豆瓣推荐","type":3,"api":"https://pan.shangui.cc/f/x7pBUZ/drpy.min.js","ext": "https://pan.shangui.cc/f/bA8Qc1/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "jszy","name": "极速资源 ","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
