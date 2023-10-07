@@ -3,8 +3,8 @@
 
         
 "sites":[ 
-  {
-      "key": "csp_好戏",
+
+        {"key": "csp_好戏",
       "name": "好戏影视|T追剧",
       "type": 3,
       "api": "csp_XBPQ",
@@ -26,8 +26,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/snow20222022/mao/main/json/聚优国产传媒.json",
-            "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/snow20222022/mao/main/      
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/snow20222022/mao/main/sex/聚优国产传媒.json",
+            "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/snow20222022/mao/main/sex/18.jar"},      
 {"key": "Hdhive","name": "影巢","type": 3,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/snow20222022/mao/main/fm.nogo.jar"},
  {"key":"csp_xBPQ_新香蕉中文字幕","name":"新香蕉中文字幕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar","ext":"https://agit.ai/weigs/w/raw/branch/master/666/新香蕉中文字幕.json"},
         {"key": "49zy","name": "49资源/🚀国外 ","type": 1,"api": "https://49zyw.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},      
