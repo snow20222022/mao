@@ -102,20 +102,7 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 
 央视频道,#genre#
 
-CCTV1[1920*1080],http://58.218.184.182:9901/tsfile/live/0001_1.m3u8
-CCTV2[1920*1080],http://58.218.184.182:9901/tsfile/live/0002_1.m3u8
-CCTV3[1920*1080],http://58.218.184.182:9901/tsfile/live/0003_1.m3u8
-CCTV4[1920*1080],http://58.218.184.182:9901/tsfile/live/0004_1.m3u8
-CCTV5[768*576],http://58.218.184.182:9901/tsfile/live/1000_1.m3u8
-CCTV5+[1920*1080],http://58.218.184.182:9901/tsfile/live/0005_1.m3u8
-CCTV6[768*576],http://58.218.184.182:9901/tsfile/live/0006_1.m3u8
-CCTV7[768*576],http://58.218.184.182:9901/tsfile/live/0007_1.m3u8
-CCTV8[768*576],http://58.218.184.182:9901/tsfile/live/0008_1.m3u8
-CCTV9[1920*1080],http://58.218.184.182:9901/tsfile/live/0009_1.m3u8
-CCTV10[1920*1080],http://58.218.184.182:9901/tsfile/live/0010_1.m3u8
-CCTV12[1920*1080],http://58.218.184.182:9901/tsfile/live/0012_1.m3u8
-CCTV13[768*576],http://58.218.184.182:9901/tsfile/live/1001_1.m3u8
-CCTV14[1920*1080],http://58.218.184.182:9901/tsfile/live/0014_1.m3u8
+
 
 
 
@@ -145,6 +132,26 @@ CCTV-14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226
 CCTV-15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV-16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV-16,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+
+CCTV1[1920*1080],http://58.218.184.182:9901/tsfile/live/0001_1.m3u8
+CCTV2[1920*1080],http://58.218.184.182:9901/tsfile/live/0002_1.m3u8
+CCTV3[1920*1080],http://58.218.184.182:9901/tsfile/live/0003_1.m3u8
+CCTV4[1920*1080],http://58.218.184.182:9901/tsfile/live/0004_1.m3u8
+CCTV5[768*576],http://58.218.184.182:9901/tsfile/live/1000_1.m3u8
+CCTV5+[1920*1080],http://58.218.184.182:9901/tsfile/live/0005_1.m3u8
+CCTV6[768*576],http://58.218.184.182:9901/tsfile/live/0006_1.m3u8
+CCTV7[768*576],http://58.218.184.182:9901/tsfile/live/0007_1.m3u8
+CCTV8[768*576],http://58.218.184.182:9901/tsfile/live/0008_1.m3u8
+CCTV9[1920*1080],http://58.218.184.182:9901/tsfile/live/0009_1.m3u8
+CCTV10[1920*1080],http://58.218.184.182:9901/tsfile/live/0010_1.m3u8
+CCTV12[1920*1080],http://58.218.184.182:9901/tsfile/live/0012_1.m3u8
+CCTV13[768*576],http://58.218.184.182:9901/tsfile/live/1001_1.m3u8
+CCTV14[1920*1080],http://58.218.184.182:9901/tsfile/live/0014_1.m3u8
+
+
+
+
+
 CCTV-2,http://1.195.111.251:11190/tsfile/live/0002_1.m3u8
 CCTV-3,http://1.195.111.251:11190/tsfile/live/0003_1.m3u8
 CCTV-4,http://1.195.111.251:11190/tsfile/live/0004_1.m3u8
