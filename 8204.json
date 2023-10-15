@@ -696,8 +696,16 @@
             "name": "再找来",
             "type": 1,
             "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="
-        },   
-    {"name": "虾米","type": 1,"url": "https://jx.xmflv.cc/?url="} 
+        }, 
+{"name": "【影视范】提供","type": 1,"url": "http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url="},
+{"name": "刚佬","type": 1,"url": "http://json.g9.pub:66/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},       
+{"name":"客气","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name": "大厂1","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url=https://www.iqiyi.com/v_1w61b103lfg.html?vfrm=pcw_home&vfrmblk=pcw_home_hot&vfrmrst=pcw_home_hot_float_video_area5"},
+{"name": "大厂2","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2255&my=eknpqvADFHOPR02458&format=json&url="},
+{"name": "大厂3","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2100&my=ehilmnqyCDGHILNUXZ&mgtv=app&url="},
+{"name": "蓝鹰2","type": 1,"url": "http://139.159.239.156:88/api/?key=vmft4BZienphzLd0LU&url="},
+{"name":"影探A","type": 1,"url":"https://epay.99xim.cn/ccc/?url=","ext": {"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},  
+{"name": "虾米","type": 1,"url": "https://jx.xmflv.cc/?url="} 
     ],
     "rules": [
         {
