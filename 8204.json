@@ -661,7 +661,7 @@
             "name": "随便用",
             "type": 1,
             "url": "https://jx.ccabc.cc/xc/?key=5567332json&url="
-        },
+        }, 
         {
             "name": "坏了我",
             "type": 0,
@@ -696,7 +696,8 @@
             "name": "再找来",
             "type": 1,
             "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="
-        }
+        },   
+    {"name": "虾米","type": 1,"url": "https://jx.xmflv.cc/?url="} 
     ],
     "rules": [
         {
