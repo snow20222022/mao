@@ -17,7 +17,7 @@
 "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/snow20222022/mao/main/7690.txt","jar":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar"
 }, 
 {"key": "俊俊","name": "俊俊(v2)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"},      
-{"key":"csp_woggcli","name":"📶俊哥玩偶┃CLi","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=acb98592a59d44318c01e544e057b70a","searchable":1,"quickSearch":1,"filterable":1}, 
+{"key":"csp_woggcli","name":"📶俊哥玩偶┃CLi","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=auto，原画,蓝光,超清,高清&token=acb98592a59d44318c01e544e057b70a","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"畅梦","name":"🍋畅梦秒播","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/changmeng.js"},        
 {"key":"csp_Ddys","name":"⛳低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
 
