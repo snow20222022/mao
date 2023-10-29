@@ -20,7 +20,7 @@
 {"key":"csp_JavDb", "name":"🧲JavDb", "type":3, "api":"csp_JavDb", "searchable":1, "quickSearch":1, "filterable":1, "viewType": 5, "timeout":60,"jar": "https://agit.ai/weigs/w/raw/branch/master/jar/javdb.png" },
 {"key":"csp_JavBus", "name":"🧲JavBusb", "type":3, "api":"csp_JavBus", "searchable":1, "quickSearch":1, "filterable":1, "viewType": 5, "timeout":60,"jar": "https://agit.ai/weigs/w/raw/branch/master/jar/javdb.png" },
         
-{"key": "直播转点播","name": "直播转换","type": 3,"api": "http://我不是.肥猫.love:63/JS/直播转点播2.js","ext": "https://gh-proxy.com/https://raw.githubusercontent.com/snow20222022/mao/main/直播仓.json"},  
+{"key": "直播转点播","name": "直播转换","type": 3,"api": "https://pan.shangui.cc/f/Z2LIv/zbzdb.js","ext": "https://pan.shangui.cc/f/z23T0/zb.json"},  
 {"key":"csp_Xunlei8","name":"🧲迅雷吧","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
 {"key": "紙條","name": "紙條","type": 4,"api": "http://home.jundie.top:9520/spider/cli_gitCafe","searchable": 1,"changeable": 0,
 "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/snow20222022/mao/main/7690.txt","jar":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar"
