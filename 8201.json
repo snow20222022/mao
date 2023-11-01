@@ -23,7 +23,7 @@
 
         {
             "key": "csp_WoGG",
-            "name": "👽玩偶哥哥┃4K(弹幕测试)",
+            "name": "👽玩偶哥哥┃4K",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
@@ -681,9 +681,59 @@
             "url": "Web"
         },
         {
+            "name": "公众号",
+            "type": 1,
+            "url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "imgo",
+                    "YuMi-vip"
+                ]
+            }
+        },
+        {
             "name": "神秘的哥哥们",
             "type": 1,
-            "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
+            "url": "https://www.qiaoji8.com/tvbox/json.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "tucheng",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "yzm",
+                    "aliyun",
+                    "RJuMao",
+                    "bilibili",
+                    "1905",
+                    "xinvip",
+                    "XAL",
+                    "qiqi",
+                    "XALS",
+                    "YuMi-vip"
+                ]
+            }
         },
         {
             "name": "解析",
@@ -718,6 +768,7 @@
             "type": 1,
             "url": "https://api.json.icu/api/?key=4f8fb5042b695d5c515f6343af716af8&url="
         },
+        http://42.51.37.161:5678/json/520239app9/gf2.php?url=
         {
             "name": "来自",
             "type": 0,
