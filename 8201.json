@@ -768,7 +768,11 @@
             "type": 1,
             "url": "https://api.json.icu/api/?key=4f8fb5042b695d5c515f6343af716af8&url="
         },
-        http://42.51.37.161:5678/json/520239app9/gf2.php?url=
+        {
+            "name": "全部0",
+            "type": 1,
+            "url": "http://42.51.37.161:5678/json/520239app9/gf2.php?url="
+        },
         {
             "name": "来自",
             "type": 0,
