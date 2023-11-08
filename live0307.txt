@@ -3,10 +3,19 @@
 美亚电影香港，https://pull-l3-activity.ixigua.com/live/stream-b16e0049bdda5f54e62d3c9b694d81ff.m3u8
 美亚电影台湾，https://pull-l3-activity.ixigua.com/live/stream-4b7a860a41c30245fdec6983a633d264.m3u8
 高帧电影,http://epg.112114.xyz/douyu/431460
+斗鱼4K影院,http://mmitv.top/test/douyu.php?id=9249162
+M1905电影网,http://nas.jdshipin.com:8801/1905.php?id=1905dy
+华数4K影视,http://r.jdshipin.com/Lqdwf
+华语影院,http://nas.jdshipin.com:8801/bst.php?id=hyyy8m/8000000
 女神影院,https://pull.kktv8.com/livekktv/99350550.flv
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 中国功夫，http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-黑莓电影，http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
+广州影视,https://justsometime.gztv.com/sec/yingshi.m3u8
 科幻动作经典喜剧,http://epg.112114.xyz/douyu/4332
 经典科幻动作灾难,http://epg.112114.xyz/douyu/252802
 科幻影视,http://epg.112114.xyz/douyu/3508304
@@ -83,7 +92,9 @@ CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
 新泰影视频道,http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
 
 💞岗奥苔测试,#genre#
-
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
 TVBS新闻HD,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
