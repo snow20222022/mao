@@ -1,29 +1,7 @@
 🌙月光宝盒,#genre#
 凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-民視,mitv://135.148.104.228:19806/935809b7311d490392cc408f76a885dd
-台視,mitv://135.148.104.228:19806/ca94cf81f5184e1ba38c417df53083e9
-中視,mitv://135.148.104.228:19806/46c5103da0be4fdf8c80e33c58e9065b
-華視,mitv://135.148.104.228:19806/16217ed00ce348c28ff6378f0562f69f
-公視,mitv://135.148.104.228:19806/f2f582cb073b4d9da89f016994dc7aa7
-壹電視新聞台,mitv://135.148.104.228:19806/e099d9d2e11144bca5f54ab05e2a61f6
-年代新聞,mitv://135.148.104.228:19806/f1f22b55b3ee484e92cb9c4a1f8108d0
-東森新聞台,mitv://135.148.104.228:19806/c486dc0047df4754b7ec787a31d9606c
-中天新聞台,mitv://135.148.104.228:19806/38b072212e0c4bc0bb223f0ff69f53ea
-民視新聞台,mitv://135.148.104.228:19806/26b8a83d633f4118a5aab7b84bbe4b4b
-三立新聞台,mitv://135.148.104.228:19806/03f994cee3394939a2a89da78bf3ea16
-TVBS新聞台,mitv://135.148.104.228:19806/50c8e12ad3074c0da084608b952d9162
-TVBS,mitv://135.148.104.228:19806/3b6d4c58350b42eb83e733dcdd5a1917
-東森財經新聞台,mitv://135.148.104.228:19806/63b4d992b3e54e32853dd041731e70cb
-非凡新聞台,mitv://135.148.104.228:19806/019f4256632b4c7d88a59111c5ce59dc
-衛視電影台,mitv://135.148.104.228:19806/e4ef1bfd6b81426795d89025e902611c
-東森電影台,mitv://135.148.104.228:19806/e22cf7e2590e469c98a36af4d430dd0d
-緯來電影台,mitv://135.148.104.228:19806/5f1461c049754222ba75f8e46b7be2bb
-龍祥電影,mitv://135.148.104.228:19806/49242efdae444b7687fbf2775bd66ce5
-HBO,mitv://135.148.104.228:19806/94f53aeb87614480883b5cd03690d6c2
-東森洋片台,mitv://135.148.104.228:19806/eefb39405d7742239028bc2cbb169840
-AXN,mitv://135.148.104.228:19806/f36c3de820774cdcb36eb420e664e62b
-好萊塢電影台,mitv://135.148.104.228:19806/ec8126f7c43f4462948b66018b98c9b7
+
 CINEMAX,mitv://135.148.104.228:19806/c5053b418c434ba780f1512588b419df
 HBO強檔巨獻,mitv://135.148.104.228:19806/e07464982744437a83c59245af481502
 HBO原創巨獻,mitv://135.148.104.228:19806/508daca92fca485f9ee41bd5884ca51f
@@ -38,12 +16,11 @@ AMC最愛電影,mitv://135.148.104.228:19806/5b524d162c60487d979792cbc5c6fe4a
 HBOFamily,mitv://135.148.104.228:19806/32b2b904243c49aeae440baa6b102e5e
 CatchPlay電影台,mitv://135.148.104.228:19806/618488b324c7474eaa344b0e2d93a78f
 壹新聞,http://154.36.187.125/蓝山.php?cid=live1242&p=5003
-三立都會HD,http://154.36.187.125/蓝山.php?cid=live1020&p=5003
-MUCH TV,http://154.36.187.125/蓝山.php?cid=live1189&p=5003
-三立台灣HD,http://154.36.187.125/蓝山.php?cid=live1021&p=5003
+
+
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-莲花卫视,https://cntv.sbs/tv/lhws.php
+
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 风云剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
 风云音乐,http://hls.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
@@ -51,39 +28,13 @@ MUCH TV,http://154.36.187.125/蓝山.php?cid=live1189&p=5003
 央视台球,http://hls.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8
 怀旧剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
 第一剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
-高尔夫网球,http://hls.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8
-文化精品,http://hls.live.cqccn.com/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8
-兵器科技,http://hls.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
-华语影院,https://cntv.sbs/tv?auth=2310201855&id=hyyy
-电竞天堂,https://cntv.sbs/tv?auth=2310201855&id=djtt
-青春动漫,https://cntv.sbs/tv?auth=2310201855&id=qcdm
-星光影院,https://cntv.sbs/tv?auth=2310201855&id=xgyy
-谍战剧场,https://cntv.sbs/tv?auth=2310201855&id=dzjc
-全球大片,https://cntv.sbs/tv?auth=2310201855&id=qqdp
-热门剧场,https://cntv.sbs/tv?auth=2310201855&id=rmjc
-热门综艺,https://cntv.sbs/tv?auth=2310201855&id=rmzy
-戏曲精选,https://cntv.sbs/tv?auth=2310201855&id=xqjx
-健康养生,https://cntv.sbs/tv?auth=2310201855&id=jkys
-百变课堂,https://cntv.sbs/tv?auth=2310201855&id=bbkt
-宝宝动画,https://cntv.sbs/tv?auth=2310201855&id=bbdh
-百视通体育1,https://cntv.sbs/tv?auth=2310201855&id=sport1
-百视通体育2,https://cntv.sbs/tv?auth=2310201855&id=sport2
-百视通体育3,https://cntv.sbs/tv?auth=2310201855&id=sport3
-百视通体育4,https://cntv.sbs/tv?auth=2310201855&id=sport4
-百视通体育5,https://cntv.sbs/tv?auth=2310201855&id=sport5
-百视通体育6,https://cntv.sbs/tv?auth=2310201855&id=sport6
-百视通体育7,https://cntv.sbs/tv?auth=2310201855&id=sport7
+
+
 
 三立台湾台,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
 三立都会台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 
-CHC动作电影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy
-CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1#http://117.148.179.157/PLTV/88888888/224/3221231580/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232945/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8#http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
-CHC家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
-CHC高清电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
-CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232942/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1#http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
-CHC高清电影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
-金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
 🎈央视直播,#genre#
 CCTV1综合,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV2财经,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -247,34 +198,7 @@ GTV网络棋牌,http://live.aishang.ctlcdn.com/00000110240319_1/playlist.m3u8?CO
 4K,http://live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
 
-🍺体育,#genre#
-ELEVEN1 高清,http://61.221.81.93:8078/hls/25/80/esport.m3u8
-ELEVEN2 高清,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-ELTA体育1台,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
-ELTA体育2台,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
-ELTA体育2台,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
-ELTA体育2台,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
-ELTA体育3台,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
-ELTA体育3台,http://www.best336699.com:1935/besttv/IR33.stream/chunklist_w926913950.m3u8
-ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-ELEVEN體育2台,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
-ELEVEN體育2台,https://epg.pm/stream/480fbbc2ba61ff75864f5aca4b9918c7ddba6fb3306ad56eb2a6482f92fc3301.m3u8
-ELEVEN 1,http://cineapp.org:8000/Fernando/Fernando/7451
-ELEVEN 3,http://cineapp.org:8000/Fernando/Fernando/7453
-ELEVEN 6,http://cineapp.org:8000/Fernando/Fernando/7456
-智林體育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
-時尚運動X,http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
-五星体育4k,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-五星体育4k,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-广东体育,http://113.117.74.17:808/hls/1/index.m3u8
-CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-Fashion4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-纯享4K,http://111.20.105.192:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
-欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
-连续剧4K,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
-李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
-广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
+
 🌈4K8K,#genre#
 CCTV4K超高清,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 CCTV4K,http://lxajh.top/iptv/cctv.php?id=cctv4k
