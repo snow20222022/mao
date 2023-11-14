@@ -20,7 +20,7 @@
 {"key":"csp_JavDb", "name":"🧲JavDb", "type":3, "api":"csp_JavDb", "searchable":1, "quickSearch":1, "filterable":1, "viewType": 5, "timeout":60,"jar": "https://agit.ai/weigs/w/raw/branch/master/jar/javdb.png" },
 {"key":"csp_JavBus", "name":"🧲JavBusb", "type":3, "api":"csp_JavBus", "searchable":1, "quickSearch":1, "filterable":1, "viewType": 5, "timeout":60,"jar": "https://agit.ai/weigs/w/raw/branch/master/jar/javdb.png" },
         
-{"key": "直播转点播","name": "直播转换","type": 3,"api": "https://pan.shangui.cc/f/Z2LIv/zbzdb.js","ext": "https://pan.shangui.cc/f/v6doTk/%E7%9B%B4%E6%92%AD%E4%BB%93.json"},
+{"key": "直播转点播","name": "直播转换","type": 3,"api": "https://pan.shangui.cc/f/Z2LIv/zbzdb.js","ext": "https://pan.shangui.cc/f/La4ZC3/%E7%9B%B4%E6%92%AD%E4%BB%931.json"},
 {"key":"csp_Xunlei8","name":"🧲迅雷吧","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
 
 {"key": "俊俊","name": "俊俊(v2)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"},      
