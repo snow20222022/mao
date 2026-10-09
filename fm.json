@@ -1,5 +1,5 @@
  //http://rihou.cc:88/demo.php
-//https://ghproxy.net/https://raw.githubusercontent.com/jingyi251/a/main/fm.json  
+//https://ghproxy.net/https://raw.githubusercontent.com/jingyi251/a/main/fm.json      https://gh-proxy.org/https://github.com/snow20222022/mao/blob/main/fm.json
 //潇洒https://9877.kstore.space/sun.json
 
 //  当前接口  http://www.英格里希嗷呜.top/tv      http://itv666.cc/aowu/config.webp    https://9763.kstore.vip/aowu.json    http://www.英格里希嗷呜.top
@@ -129,8 +129,8 @@
                        "key": "py_bubuzhuiju",
                        "name": "布布追剧[py]",
                        "type": 3,
-                       "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/bubuzhuiju.py",
-                       //"api": "https://clun.top/py/bubuzhuiju.py",
+                       //"api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/bubuzhuiju.py",
+                     "api": "https://gh-proxy.org/https://github.com/cluntop/tvbox/blob/main/py/bubuzhuiju.py",
                        "searchable": 1,
                        "quickSearch": 1,
                        "filterable": 1
@@ -141,7 +141,7 @@
    "key": "py_8kvod",
    "name": "酷客[py]",
    "type": 3,
-   "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/8kvod.py",
+   "api": "https://gh-proxy.org/https://github.com/cluntop/tvbox/blob/main/py/8kvod.py",
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 1,
@@ -151,7 +151,7 @@
       "key": "一起看影院",
       "name": "一起看影院.py[追剧]",
       "type": 3,
-      "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/一起看影院.py"
+      "api": "https://gh-proxy.org/https://github.com/phu889/kjh998/blob/main/py/一起影院.py"
     },
 {
       "key": "青禾影视",
@@ -167,7 +167,12 @@
       "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/移动4k.py"
     },
 
-
+{
+      "key": "影探4K",
+      "name": "影探 • 4K",
+      "type": 3,
+      "api": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/jieluojun/tvbox/refs/heads/master/py/影探4K.py"
+    },
 
 
 {
