@@ -149,22 +149,28 @@
    },
 {
       "key": "一起看影院",
-      "name": "一起看影院.py[追剧]",
+      "name": "一起看.py[追剧]",
       "type": 3,
-      "api": "https://gh-proxy.org/https://github.com/phu889/kjh998/blob/main/py/一起影院.py"
+      "api": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/py/一起看.py"
     },
 {
-      "key": "青禾影视",
-      "name": "青禾影视.py[追剧]",
+      "key": "极速追剧",
+      "name": "极速追剧.py[追剧]",
       "type": 3,
-      "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/青禾影视.py"
+      "api": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/py/极速追剧.py"
     },
 
 {
       "key": "移动4k",
       "name": "移动4k.py[追剧]",
       "type": 3,
-      "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/移动4k.py"
+      "api": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/py/移动4k.py"
+    },
+{
+      "key": "云朵影视",
+      "name": "云朵影视.py[追剧]",
+      "type": 3,
+      "api": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/py/云朵影视.py"
     },
 
 {
@@ -174,6 +180,12 @@
       "api": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/jieluojun/tvbox/refs/heads/master/py/影探4K.py"
     },
 
+ {
+			"key": "枫叶4K",
+			"name": "🐬[追剧]枫叶4K.py(关梯)",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/枫叶4K.py"
+		},
 
 {
             "key":"央视频",
