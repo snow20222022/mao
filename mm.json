@@ -140,6 +140,18 @@
 
 
 //肏屄
+{
+      "key": "shjb",
+      "name": "🦋 [直播]色播聚合.py｜🔞",
+      "type": 3,
+      "api": "https://sub.lytvs.top/pydl/sebojuhe.py?tk=tk_cb7183db",
+      "ext": "",
+      "searchable": 0,
+      "quickSearch": 0,
+      "category": "福利",
+            "jar": "https://lytvs.top/py/spider.jar"
+    },
+
   {
       "key": "海角乱伦",
       "name": "🦋 海角乱伦(关梯).py",
