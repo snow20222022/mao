@@ -148,6 +148,29 @@
    "filterable": 1
    },
 {
+   "key": "py_maple",
+   "name": "枫叶[py]",
+   "type": 3,
+   "api": "https://gh-proxy.org/https://github.com/cluntop/tvbox/blob/main/py/maple.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {}
+  },
+
+{
+       "key":"yangguang",
+       "name":"阳光影视",
+       "type":3,
+       "api":"https://gh-proxy.org/https://github.com/cluntop/tvbox/blob/main/py/yangguang.py",
+       "searchable":1,
+       "quickSearch":0
+},
+
+
+
+
+{
       "key": "一起看影院",
       "name": "一起看.py[追剧]",
       "type": 3,
@@ -191,7 +214,6 @@
       "type": 3,
       "api": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/py/8kvod.py"
     },
-
  {
 			"key": "枫叶4K",
 			"name": "🐬[追剧]枫叶4K.py(关梯)",
@@ -271,28 +293,6 @@
             "filterable": 1,
             "playerType": 2
         },
-
-{
-           "key": "枫叶影院",
-           "name": "枫叶影院｜py",
-           "type": 3,
-           "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/枫叶影院.py",
-           "style": {
-            "type": "rect",
-            "ratio": 1.33
-            },
-            "changeable": 1
-  },
-
-
-{
-       "key":"yangguang",
-       "name":"阳光影视",
-       "type":3,
-       "api":"https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/yangguang.py",
-       "searchable":1,
-       "quickSearch":0
-},
 
 
 
