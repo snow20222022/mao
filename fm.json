@@ -6,7 +6,7 @@
 
 
 {
-      "spider": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png",   
+      "spider": "https://file.icve.com.cn/file_doc/997/227/F9538F89E13ADF0CFBCA7909AE555AB6.png",   
      "wallpaper": "https://gh-proxy.org/https://github.com/snow20222022/mao/blob/main/tu/f.jpg",
      "logo": "https://gh-proxy.org/https://github.com/snow20222022/mao/blob/main/tu/a.gif",
 
@@ -302,16 +302,7 @@
 // 东篱  https://16151.kstore.space      https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/api.json
 //  嗷呜接口：http://mytv6688.xyz/aowu/config.webp
  
-{
-      "name": "🚀韩剧┃秒播",
-      "key": "Hxq",
-      "type": 3,
-      "api": "csp_HxqAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
+ {
       "name": "🚀瓜子┃秒播",
       "key": "Guazi",
       "type": 3,
@@ -440,16 +431,6 @@
       "changeable": 1,
       "ext": "AppV7Dsx"
     },
-    {
-      "name": "📦特狗┃秒播",
-      "key": "AppV6Tg",
-      "type": 3,
-      "api": "csp_AppV6Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV6Tg"
-    },
        {
       "name": "🔗哔嘀┃2K",
       "key": "Bidys",
@@ -480,7 +461,7 @@
       "changeable": 0,
       "ext": "Libvio"
     },
- {
+  {
       "name": "⭐橘汁┃快速",
       "key": "Woshinidie",
       "type": 3,
@@ -519,15 +500,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "JPian"
-    },
-    {
-      "name": "⭐伊外┃快速",
-      "key": "YIys",
-      "type": 3,
-      "api": "csp_YIysAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "name": "⭐爱看┃采集",
