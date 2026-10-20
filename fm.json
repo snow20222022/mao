@@ -294,7 +294,24 @@
             "playerType": 2
         },
 
-
+{
+            "type": 3,
+            "api": "https://gh-proxy.com/https://github.com/kuby007/temp/raw/main/yangshipin.py",
+            "name": "央视频道",
+            "ext": {},
+            "key": "央视频道"
+        },
+        {
+            "key": "好聚好散",
+            "name": "好聚好散",
+            "type": 3,
+            "jar": "https://gh-proxy.com/https://github.com/kuby007/temp/raw/main/app-menu.jar",
+            "api": "csp_appmenu",
+            "ext": {
+                "base": "/storage/emulated/0/download/menu",
+                "增量跳过": "https://gh-proxy.com/https://github.com/kuby007/temp/raw/main/sososo.zip;md5=4a05aef16a6e151e10d0f9d54e7a8ecb"
+            }
+         },
 
 
 
