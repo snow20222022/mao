@@ -13,11 +13,16 @@
 
   "lives": [
 {
+      "name": "直播",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/a2256569/tv/refs/heads/main/sdzb.txt"
+    },
+
+{
       "name": "👖裤佬IPTV直播精简",
       "type": 0,
       "url": "https://gh-proxy.org/https://github.com/mhmdxahmd/mafly/blob/main/MAfly1/mafly.m3u"
     },
-
  {
       "name": "🐬咪咕直播",
       "type": 0,
