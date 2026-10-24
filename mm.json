@@ -442,9 +442,9 @@
             "type": 3,
             "searchable": 0,
             "changeable": 0,
-            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/drpy2.min.js",
-            "ext": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/ss直播.js",
-            "jar": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro1.jar"
+            "api": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/js/drpy2.min.js",
+            "ext": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/js/ss直播.js",
+            "jar": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/jar/yt.jar"
 
         },
  {
@@ -459,18 +459,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/jingyi251/EHR663/blob/FGBLH-patch-1/py/Pandalive直播.py"
     },
-//{
-            //"key": "ss直播",
-            //"name": "🔞ss直播",
-            //"type": 3,
-            //"api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/drpy2.min.js",
-            //"searchable": 1,
-           // "quickSearch": 1,
-            //"filterable": 1,
-            //"api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/drpy2.min.js",
-       // },
-
-{
+{{
       "key": "🍊Boba影视🍊",
       "name": "🍊Boba影视🍊",
       "type": 0,
