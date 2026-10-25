@@ -127,6 +127,53 @@
       "ext": "Hgdh"
     },
 
+{
+      "key": "影探",
+      "name": "🦋 影探.py",
+      "type": 3,
+      "api": "https://sub.lytvs.top/pydl/影探.py?tk=cj_52c61d4c",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "",
+      "category": "综合",
+            "jar": "https://lytvs.top/py/spider.jar"
+    },
+
+
+//https://clun.top/box.json
+		{
+                       "key": "py_bubuzhuiju",
+                       "name": "布布追剧[py]",
+                       "type": 3,
+                       //"api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/bubuzhuiju.py",
+                     "api": "https://gh-proxy.org/https://github.com/cluntop/tvbox/blob/main/py/bubuzhuiju.py",
+                       "searchable": 1,
+                       "quickSearch": 0,
+                       "filterable": 1
+                      // "jar": "https://clun.top/jar/xs.jar"
+                },
+//https://v6.gh-proxy.org/https://github.com/FGBLH/EHR663/blob/main/Web%E9%B1%BC%E5%A3%B3%E6%B5%B7%E8%B1%9A%E5%B8%B8%E8%A7%8423
+{
+   "key": "py_maple",
+   "name": "枫叶[py]",
+   "type": 3,
+   "api": "https://gh-proxy.org/https://github.com/cluntop/tvbox/blob/main/py/maple.py",
+   "searchable": 1,
+   "quickSearch": 0,
+   "filterable": 1,
+   "ext": {}
+  },
+
+{
+       "key":"yangguang",
+       "name":"阳光影视",
+       "type":3,
+       "api":"https://gh-proxy.org/https://github.com/cluntop/tvbox/blob/main/py/yangguang.py",
+       "searchable":1,
+       "quickSearch":0
+},
+
 
 
 
@@ -178,7 +225,9 @@
 			"key": "美剧天堂",
 			"name": "🐬[追剧]美剧天堂.py(关梯)",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/美剧天堂.py"
+			"api": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/py/美剧天堂.py",
+			"searchable": 0,
+			"quickSearch": 0
 		},
 
  {
@@ -256,7 +305,7 @@
             "api": "https://d.kstore.dev/download/8344/py/万彩坊影视.py",
             "searchable": 1,
             "changeable": 1,
-            "quickSearch": 1,
+            "quickSearch": 0,
             "filterable": 1,
             "playerType": 2
         },
@@ -280,8 +329,6 @@
             }
          },
 
-
-		
 
 
 
@@ -507,6 +554,16 @@
 
 
 
+ //香雅晴https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQTVBox.json
+
+//{"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.xb6v.com","jar":"https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+//{"key":"csp_DyGod","name":"🧲电影天堂","type":3,"api":"csp_DyGod","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+//{"key":"csp_QnMp4","name":"🧲七妹","type":3,"api":"csp_QnMp4","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+//{"key":"csp_MeijuTT","name":"🧲美剧天堂","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.meijutt.net","jar":"https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+//{"key":"csp_BLSGod","name":"🧲80S影视","type":3,"api":"csp_BLSGod","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+//{"key":"360_spider","name":"🐞360影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1,"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+//{"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+//{"key":"csp_LocalFile","name":"本机文件(接口完全免费)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":0,"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
 
 //老张  https://zhangqun1818.serv00.net/zq/api.json
 
@@ -523,6 +580,11 @@
            // "changeable": 1
    // },
 
+
+
+
+
+		
 //饭太硬    http://www.饭太硬.cc/tv   http://fty.xxooo.cf/tv    http://www.饭太硬.net/tv
 {
             "key": "MTV1",
@@ -678,9 +740,7 @@
            "jar":"https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/fan.txt"
      },
 
-
-
-		
+     
 
 
 
@@ -692,6 +752,29 @@
 
 
 //南哥https://16409.kstore.vip/tv/ngzmods.json
+//{
+     // "key": "秒看蓝光",
+     // "name": "🎇www.nan2025.com",
+     // "type": 3,
+     // "api": "csp_AppGet",
+     // "ext": {
+     //   "site": "https://mk1080.top/get.txt",
+      //  "dataKey": "c60d88b2eep53za8",
+      //  "dataIv": "c60d88b2eep53za8",
+     //  "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa",
+     //   "ua": "okhttp/3.14.9"
+    //  },
+    //  "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+    //    },
+   // {
+    //  "name": "🍉GZ┃HD2K",
+    //  "type": 3,
+   //   "api": "csp_Gz360",
+   //   "searchable": 1,
+   //   "quickSearch": 1,
+   //   "filterable": 1,
+   //   "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+   //     },
 
    
 
@@ -741,7 +824,7 @@
 {
       "key": "🍊Boba影视🍊",
       "name": "🍊Boba影视🍊",
-      "type": 3,
+      "type": 0,
       "api": "http://150.109.94.44:1112/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
@@ -790,7 +873,7 @@
 {
         "key": "niuniuzy",
         "name": "牛牛",
-        "type": 3,
+        "type": 0,
         "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml",
         "playUrl": "https://jiexi.niuniuzy.org/m3u8/?url=",
         "quickSearch": 1,
