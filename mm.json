@@ -51,10 +51,24 @@
 
   "sites": [
  
+{
+      "key": "豆瓣[官]_2.js",
+      "name": "💥豆瓣💥",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/js/drpy2.min.js",
+      "changeable": 0,
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/js2/豆瓣[官]_2.js"
+    },
 
 {
       "key": "0",
       "name": "---0---"
+    },
+{
+      "key": "IMXVOD影视.py",
+      "name": "💥IMXVOD影视💥",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/IMXVOD影视.py",
+      "type": 3
     },
 
 	{
@@ -135,7 +149,20 @@
             "filterable": 1,
             "playerType": 2
         },
-                                      
+            {
+      "key": "四叶草11",
+      "name": "💥四叶草💥",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/js7/get.js",
+      "ext": {
+        "host": "http://107.151.244.162:6622",
+        "key": "wNCwbXzr0Bm6cS2C",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+                           
                 {
             "key": "四叶草",
             "name": "🍀星叶｜1080P",
@@ -169,7 +196,12 @@
 			"type": 3,
 			"api": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/py/HochuTVxxx直播.py"
 		},
-
+{
+      "key": "色播聚合.py",
+      "name": "💥色播聚合444💥",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py8/色播聚合.py",
+      "type": 3
+    },
 
 {
       "key": "shjb",
@@ -414,54 +446,127 @@
     },
 
 //https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1
-
-{
-            "key": "AI-V-HUB",
-            "name": "V-HUB[成人]",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/V-HUB%5B%E6%88%90%E4%BA%BA%5D.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 1,
-            "playerType": 2
-        },
-{
-        "key": "真实人妻1",
-         "name": "真实人妻1｜py",
-          "type": 3,
-          "api": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/js/drpy2.min.js",
-            "ext": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/js/ss直播.js",
-            "jar": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/jar/yt.jar",
-          "style": {
-            "type": "rect",
-           "ratio": 1.33
-         },
-          "changeable": 1
- },
-{
-            "key": "ss直播",
-            "name": "ss直播",
-            "type": 3,
-            "searchable": 0,
-            "changeable": 0,
-            "api": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/js/drpy2.min.js",
-            "ext": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/js/ss直播.js",
-            "jar": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/jar/yt.jar"
-
-        },
  {
-      "key": "shjb",
-      "name": "🐬色播聚合.py｜🔞[成人直播]",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://github.com/jingyi251/EHR663/blob/FGBLH-patch-1/py/色播聚合.py"
+      "key": "真实未流出.py",
+      "name": "💥真实未流出💥",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/真实未流出.py",
+      "type": 3
+    },
+
+ {
+      "key": "随机小姐姐3.py",
+      "name": "💥随机小姐姐3💥",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/随机小姐姐3.py",
+      "type": 3
+    },
+ {
+      "key": "小学妹.py",
+      "name": "💥小学妹💥",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/小学妹.py",
+      "type": 3
+    },
+ {
+      "key": "直播录屏.py",
+      "name": "💥直播录屏💥",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/直播录屏.py",
+      "type": 3
+    },
+ {
+      "key": "乱伦仓库.py",
+      "name": "💥乱伦仓库💥",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/乱伦仓库.py",
+      "type": 3
+    },
+{
+      "key": "萝莉岛app.py",
+      "name": "💥萝莉岛app💥",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/萝莉岛app.py",
+      "type": 3
+    },
+{
+      "key": "清纯人妻.py",
+      "name": "💥清纯人妻💥",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/清纯人妻.py",
+      "type": 3
+    },
+{
+      "key": "优质粉嫩鲍.py",
+      "name": "💥优质粉嫩鲍💥",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/优质粉嫩鲍.py",
+      "type": 3
     },
     {
-      "key": "Pandalive",
-      "name": "🐬韩国Pandalive直播.py｜🔞[成人直播]",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://github.com/jingyi251/EHR663/blob/FGBLH-patch-1/py/Pandalive直播.py"
+      "key": "淫母原味.py",
+      "name": "💥淫母原味💥",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/淫母原味.py",
+      "type": 3
     },
+
+ {
+      "key": "美女视频收藏馆.py",
+      "name": "💥美女视频收藏馆💥",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/pytesx/美女视频收藏馆.py",
+      "type": 3
+    },
+  {
+      "key": "人妻偷情.py",
+      "name": "💥人妻偷情💥",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/人妻偷情.py",
+      "type": 3
+    },
+
+ {
+      "key": "V-uHUB.py",
+      "name": "💥V-HUB77💥",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/pytesx/V-HUB.py",
+      "type": 3
+    },
+{
+      "key": "真实人妻.py",
+      "name": "💥真实人妻💥",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/真实人妻.py",
+      "type": 3
+    },
+{
+      "key": "熊猫秒播.py",
+      "name": "💥熊猫秒播💥",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py8/熊猫秒播.py",
+      "type": 3
+    },
+{
+      "key": "真它妈多分类.py",
+      "name": "💥真它妈多分类💥",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/真它妈多分类.py",
+      "type": 3
+    },
+    {
+      "key": "迷妹网.py",
+      "name": "💥迷妹网💥",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/迷妹网.py",
+      "type": 3
+    },
+
+{
+      "key": "网络直播.py",
+      "name": "👭网络直播11👭",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py8/WLZB.py"
+    },
+ {
+      "key": "每日大赛.py",
+      "name": "💥每日大赛💥",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py/每日大赛.py",
+      "changeable": 1
+    },
+
+   {
+      "key": "Korean18x.py",
+      "name": "💥Korean18x💥",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/pytesx/Korean18x.py",
+      "type": 3
+    },
+
 {
       "key": "🍊Boba影视🍊",
       "name": "🍊Boba影视🍊",
