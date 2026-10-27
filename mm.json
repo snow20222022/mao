@@ -193,6 +193,47 @@
 
 
 //肏屄
+
+
+{
+      "key": "直播聚合",
+      "name": "🔞直播聚合",
+      "type": 3,
+      "api": "https://pan.szfx.top/down.php/0be87f9fe6f6bf012e0800771279d021.js"
+    },
+    {
+      "key": "聚合直播",
+      "name": "🔞聚合直播",
+      "type": 3,
+      "api": "https://pan.szfx.top/down.php/8c047c40991610292593392051eca249.py"
+    },
+    {
+      "key": "海外大秀",
+      "name": "🔞海外大秀",
+      "type": 3,
+      "api": "https://pan.szfx.top/down.php/45d68f772e0db661094cb4edb5a9d0cb.py"
+    },
+    {
+      "key": "小红薯",
+      "name": "🔞小红薯",
+      "type": 3,
+      "api": "https://pan.szfx.top/down.php/d4b79c09a0e52a5e006dcbc3fe47be4a.py"
+    },
+        {
+            "key": "熊猫",
+            "name": "🔞熊猫",
+            "type": 3,
+            "api": "csp_XMVideo",
+            "searchable": 1,
+            "filterable": 1,
+            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+        },
+
+
+
+
+
+
 {
 			"key": "HochuTVxxx直播",
 			"name": "🐬HochuTVxxx直播",
@@ -564,48 +605,6 @@
             "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/jar1/0406go2.jpg"
     },
 
-{
-      "key": "真它妈多分类.py",
-      "name": "💥真它妈多分类💥",
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/真它妈多分类.py",
-      "type": 3,
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/jar1/0406go2.jpg"
-    },
-
-    {
-      "key": "迷妹网.py",
-      "name": "💥迷妹网💥",
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/迷妹网.py",
-      "type": 3,
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/jar1/0406go2.jpg"
-    },
-
-
-{
-      "key": "网络直播.py",
-      "name": "👭网络直播11👭",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py8/WLZB.py",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/jar1/0406go2.jpg"
-    },
-
- {
-      "key": "每日大赛.py",
-      "name": "💥每日大赛💥",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py/每日大赛.py",
-      "changeable": 1,
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/jar1/0406go2.jpg"
-    },
-
-
-   {
-      "key": "Korean18x.py",
-      "name": "💥Korean18x💥",
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/pytesx/Korean18x.py",
-      "type": 3,
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/jar1/0406go2.jpg"
-    },
 
 
 {
