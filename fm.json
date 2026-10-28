@@ -6,7 +6,7 @@
 
 
 {
-      "spider": "https://file.icve.com.cn/file_doc/653/727/A37B5C22B56C4DCE38B519EE92256A8E.png",   
+      "spider": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png",   
      "wallpaper": "https://gh-proxy.org/https://github.com/snow20222022/mao/blob/main/tu/f.jpg",
      "logo": "https://gh-proxy.org/https://github.com/snow20222022/mao/blob/main/tu/a.gif",
 
@@ -116,18 +116,6 @@
       "ext": "Douban"
     },
 {
-      "name": "🔥短剧┃推荐",
-      "key": "Hgdh",
-      "type": 3,
-      "api": "csp_HgdhAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "genre": "shortdrama",
-      "ext": "Hgdh"
-    },
-
-{
       "key": "影探",
       "name": "🦋 影探.py",
       "type": 3,
@@ -191,12 +179,6 @@
     },
 
 {
-      "key": "移动4k",
-      "name": "移动4k.py[追剧]",
-      "type": 3,
-      "api": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/py/移动4k.py"
-    },
-{
       "key": "云朵影视",
       "name": "云朵影视.py[追剧]",
       "type": 3,
@@ -214,12 +196,6 @@
       "name": "懂片帝AI[追剧]",
       "type": 3,
       "api": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/py/懂片帝AI.py"
-    },
-{
-      "key": "8kvod",
-      "name": "8kvod",
-      "type": 3,
-      "api": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/py/8kvod.py"
     },
 		{
 			"key": "美剧天堂",
@@ -290,25 +266,7 @@
    
  
 
-        {
-            "key": "四叶草",
-            "name": "🍀星叶｜1080P",
-            "type": 3,
-            "jar": "https://lu0168.ccwu.cc/888/db/jar/xiaomi.jar",            
-            "api": "csp_AppGet",
-            "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|122|okhttp/3.10.0|Lavf/58.12.100"
-        }, 
-        {
-            "key": "万彩坊影视",
-            "name": "🦚万彩坊｜影视py",
-            "type": 3,
-            "api": "https://d.kstore.dev/download/8344/py/万彩坊影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "playerType": 2
-        },
+        
 
 {
             "type": 3,
@@ -752,29 +710,6 @@
 
 
 //南哥https://16409.kstore.vip/tv/ngzmods.json
-//{
-     // "key": "秒看蓝光",
-     // "name": "🎇www.nan2025.com",
-     // "type": 3,
-     // "api": "csp_AppGet",
-     // "ext": {
-     //   "site": "https://mk1080.top/get.txt",
-      //  "dataKey": "c60d88b2eep53za8",
-      //  "dataIv": "c60d88b2eep53za8",
-     //  "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa",
-     //   "ua": "okhttp/3.14.9"
-    //  },
-    //  "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
-    //    },
-   // {
-    //  "name": "🍉GZ┃HD2K",
-    //  "type": 3,
-   //   "api": "csp_Gz360",
-   //   "searchable": 1,
-   //   "quickSearch": 1,
-   //   "filterable": 1,
-   //   "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
-   //     },
 
    
 
