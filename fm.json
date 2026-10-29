@@ -162,14 +162,20 @@
        "quickSearch":0
 },
 
-
-
-
 {
       "key": "一起看影院",
       "name": "一起看.py[追剧]",
       "type": 3,
       "api": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/py/一起看.py"
+    },
+
+
+
+{
+      "key": "山楂4K",
+      "name": "山楂4K",
+      "type": 3,
+      "api": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/py/山楂4K.py"
     },
 {
       "key": "极速追剧",
@@ -186,10 +192,11 @@
     },
 
 {
-      "key": "影探4K",
-      "name": "影探 • 4K",
+      "key": "小鸡看看",
+      "name": "小鸡看看",
       "type": 3,
-      "api": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/jieluojun/tvbox/refs/heads/master/py/影探4K.py"
+      //"api": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/jieluojun/tvbox/refs/heads/master/py/影探4K.py"
+      "api": "https://v6.gh-proxy.org/https://github.com/snow20222022/kjh998/blob/main/py/小鸡看看.py"
     },
 {
       "key": "懂片帝AI",
@@ -206,13 +213,7 @@
 			"quickSearch": 0
 		},
 
- {
-			"key": "枫叶4K",
-			"name": "🐬[追剧]枫叶4K.py(关梯)",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/枫叶4K.py"
-		},
-
+ 
 {
             "key":"央视频",
             "name":"🐬[直播]央视频(关梯)",
