@@ -6,7 +6,7 @@
 
 
 {
-      "spider": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png;md5;d93049ba6615eab01b69a52ff03c02c9",   
+      "spider": "https://nos.netease.com/vcloud-statistic/nrtc/75b0af3e-1176-4828-b210-f9f8357fb3d6.png;md5;b1823304909b079fb81e333310a30759",   
      "wallpaper": "https://gh-proxy.org/https://github.com/snow20222022/mao/blob/main/tu/f.jpg",
      "logo": "https://gh-proxy.org/https://github.com/snow20222022/mao/blob/main/tu/a.gif",
 
@@ -79,7 +79,7 @@
       "ext": "Xxxg"
     },
    
-    {
+   {
       "name": "🚀韩剧┃秒播",
       "key": "Hxq",
       "type": 3,
@@ -217,7 +217,7 @@
       "changeable": 1,
       "ext": "AppV7Dsx"
     },
-    {
+       {
       "key": "1",
       "name": "---1---"
     },
@@ -315,7 +315,7 @@
             "key":"央视频",
             "name":"🐬[直播]央视频(关梯)",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/央视频.py"
+			"api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/py/央视频.py"
 		},
                 {
 			"key": "4K影视",
@@ -323,7 +323,7 @@
 			"type": 3,
                         "searchable": 1,
 			"changeable": 0,
-			"api": "https://v6.gh-proxy.org/https://github.com/phu889/kjh998/blob/main/py/4K影视.py"  
+			"api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/py/4K影视.py"  
                },
                {
 			"key": "qlys",
@@ -331,13 +331,13 @@
 			"type": 3,
                         "searchable": 1,
 			"changeable": 0,
-			"api": "https://v6.gh-proxy.org/https://github.com/phu889/kjh998/blob/main/py/麒麟影视.py"
+			"api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/py/麒麟影视.py"
 		},
               {
                  "key": "拾光影视",
                  "name": "🐬[追剧]拾光影视.js",
                  "type": 3,
-                 "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/jar_js/拾光影视.js",
+                 "api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/jar_js/拾光影视.js",
                  "changeable": 0
     },
 
@@ -345,7 +345,7 @@
       "key": "腾爱优芒B",
       "name": "🐬[追剧]腾爱优芒B.py",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/腾爱优芒B.py",
+      "api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/py/腾爱优芒B.py",
        "searchable":1,
        "quickSearch":0
 
@@ -356,7 +356,7 @@
 	"key": "红果短剧",
 	"name": "🐬[短剧]红果短剧(关梯)",
 	"type": 3,
-	"api": "https://gh-proxy.com//https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/红果短剧.py",
+	"api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/py/红果短剧.py",
        "searchable":1,
        "quickSearch":0
 
@@ -365,7 +365,7 @@
 	"key": "百度短剧",
 	"name": "🐬[短剧]百度短剧",
 	"type": 3,
-	"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/jar_js/百度短剧.js",
+	"api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/jar_js/百度短剧.js",
        "searchable":1,
        "quickSearch":0
 
@@ -777,7 +777,7 @@
       "name": "⭐橘汁┃快速",
       "key": "Woshinidie",
       "type": 3,
-      "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/0f5c235d-ee40-42a0-a19a-b7f29986c51c.png;md5;7a2cb30dc4937d27e57288b5c381e19c",
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/35012678-318a-469d-866b-00e9d74468df.png;md5;528450abfa7bbee80d68034ae045a1f6",
       "api": "csp_Woshinidie",
       "searchable": 1,
       "quickSearch": 1,
@@ -822,8 +822,12 @@
       "quickSearch": 1,
       "changeable": 1
     },
-   
-    {
+   {
+      "key": "4",
+      "name": "---4---"
+    },
+
+  {
       "name": "📡Bili┃Live",
       "key": "Bilive",
       "type": 3,
@@ -849,7 +853,7 @@
         "ratio": 1.433
       }
     },
-   
+
     {
       "name": "🎉合集┃Bili",
       "key": "BiliHeji",
@@ -1028,6 +1032,24 @@
       "genre": "music"
     },
     {
+      "name": "🔍fish┃盘搜",
+      "key": "PSfish",
+      "type": 3,
+      "api": "csp_PSfishAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "name": "🔍短剧┃盘搜",
+      "key": "PSdju",
+      "type": 3,
+      "api": "csp_PSdjuAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "name": "🛴推送┃播放",
       "key": "push_agent",
       "type": 3,
@@ -1038,7 +1060,7 @@
     }
   ],
 
-  "parses": [
+ "parses": [
     {
       "name": "聚合1",
       "type": 3,
