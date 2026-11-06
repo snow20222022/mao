@@ -392,16 +392,6 @@
                        "filterable": 1
                 },
 
-{
-                       "key": "百度短剧",
-                       "name": "百度短剧",
-                       "type": 3,
-                        "api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/jar_js/百度短剧.py",
-                       "searchable": 1,
-                       "quickSearch": 0,
-                       "filterable": 1
-                },
-
 
 
 
