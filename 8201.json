@@ -223,75 +223,7 @@
     },
 
 
-		{
-			"key": "美剧天堂",
-			"name": "🐬[追剧]美剧天堂.py(关梯)",
-			"type": 3,
-			"api": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/py/美剧天堂.py",
-			"searchable": 1,
-			"quickSearch": 0
-		},
 
- 
-{
-            "key":"央视频",
-            "name":"🐬[直播]央视频(关梯)",
-			"type": 3,
-			"api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/py/央视频.py"
-		},
-                {
-			"key": "4K影视",
-			"name": "🐬4K影视.py",
-			"type": 3,
-                        "searchable": 1,
-			"changeable": 0,
-			"api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/py/4K影视.py"  
-               },
-               {
-			"key": "qlys",
-			"name": "🐬麒麟影视.py",
-			"type": 3,
-                        "searchable": 1,
-			"changeable": 0,
-			"api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/py/麒麟影视.py"
-		},
-              {
-                 "key": "拾光影视",
-                 "name": "🐬[追剧]拾光影视.js",
-                 "type": 3,
-                 "api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/jar_js/拾光影视.js",
-                 "changeable": 0
-    },
-
-    {
-      "key": "腾爱优芒B",
-      "name": "🐬[追剧]腾爱优芒B.py",
-      "type": 3,
-      "api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/py/腾爱优芒B.py",
-       "searchable":1,
-       "quickSearch":0
-
-    },
-    
-   	
- {
-	"key": "红果短剧",
-	"name": "🐬[短剧]红果短剧(关梯)",
-	"type": 3,
-	"api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/py/红果短剧.py",
-       "searchable":1,
-       "quickSearch":0
-
-		},
-{
-	"key": "百度短剧",
-	"name": "🐬[短剧]百度短剧",
-	"type": 3,
-	"api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/jar_js/百度短剧.js",
-       "searchable":1,
-       "quickSearch":0
-
-		},
 
 {
             "type": 3,
