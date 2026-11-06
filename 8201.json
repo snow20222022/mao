@@ -301,6 +301,63 @@
        "quickSearch":0
 
     },
+{
+                       "key": "美剧天堂",
+                       "name": "美剧天堂[py]",
+                       "type": 3,
+                        "api": "https://gh-proxy.org/https://github.com/cluntop/tvbox/blob/main/py/美剧天堂.py",
+                       "searchable": 1,
+                       "quickSearch": 0
+                },
+{
+                       "key": "美剧天堂",
+                       "name": "美剧天堂[py]",
+                       "type": 3,
+                        "api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/py/美剧天堂.py",
+                       "searchable": 1,
+                       "quickSearch": 0
+                },
+{
+                       "key": "4K影视",
+                       "name": "4K影视[py]",
+                       "type": 3,
+                        "api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/py/4K影视.py",
+                       "searchable": 1,
+                       "quickSearch": 0
+                },
+{
+                       "key": "qlys",
+                       "name": "麒麟影视[py]",
+                       "type": 3,
+                        "api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/py/麒麟影视.py",
+                       "searchable": 1,
+                       "quickSearch": 0
+                },
+{
+                       "key": "腾爱优芒B",
+                       "name": "腾爱优芒B[py]",
+                       "type": 3,
+                        "api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/py/腾爱优芒B.py",
+                       "searchable": 1,
+                       "quickSearch": 0
+                },
+
+{
+                       "key": "红果短剧",
+                       "name": "红果短剧[py]",
+                       "type": 3,
+                        "api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/py/红果短剧.py",
+                       "searchable": 1,
+                       "quickSearch": 0
+                },
+{
+                       "key": "百度短剧",
+                       "name": "百度短剧",
+                       "type": 3,
+                        "api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/jar_js/百度短剧.py",
+                       "searchable": 1,
+                       "quickSearch": 0
+                },
 
 
 {
