@@ -301,22 +301,7 @@
        "quickSearch":0
 
     },
-{
-                       "key": "美剧天堂",
-                       "name": "美剧天堂[py]",
-                       "type": 3,
-                        "api": "https://gh-proxy.org/https://github.com/cluntop/tvbox/blob/main/py/美剧天堂.py",
-                       "searchable": 1,
-                       "quickSearch": 0
-                },
-{
-                       "key": "美剧天堂",
-                       "name": "美剧天堂[py]",
-                       "type": 3,
-                        "api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/py/美剧天堂.py",
-                       "searchable": 1,
-                       "quickSearch": 0
-                },
+
 {
                        "key": "4K影视",
                        "name": "4K影视[py]",
