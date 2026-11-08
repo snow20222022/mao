@@ -342,16 +342,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "影探",
-      "name": "🌌影探丨4K资源",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/James/main/py/影探4K.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+   
     {
       "key": "gulu",
       "name": "🐧咕噜丨蓝光秒播",
@@ -362,16 +353,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "shanzha4k",
-      "name": "🍒山楂丨蓝光秒播",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/py/山楂4K.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+   
 
 {
                        "key": "红果短剧",
