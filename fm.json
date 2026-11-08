@@ -361,7 +361,15 @@
        "quickSearch":0
 
 		},
+{
+	"key": "百度短剧",
+	"name": "🐬[短剧]百度短剧",
+	"type": 3,
+	"api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/jar_js/百度短剧.js",
+       "searchable":1,
+       "quickSearch":0
 
+		},
 
 {
             "type": 3,
@@ -381,7 +389,38 @@
                 "增量跳过": "https://gh-proxy.com/https://github.com/kuby007/temp/raw/main/sososo.zip;md5=4a05aef16a6e151e10d0f9d54e7a8ecb"
             }
          },
+
+{//https://8815.kstore.vip/tvbox/wmz
 {
+      "key": "搜剧AI",
+      "name": "🎈看剧AI丨蓝光秒播",
+      "api": "csp_SouJu",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "北斗",
+      "name": "🛸北斗丨蓝光秒播",
+      "api": "csp_Bdjmcc",
+      "type": 3,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+      
+    {
+      "key": "gulu",
+      "name": "🐧咕噜丨蓝光秒播",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/James/main/py/咕噜咕噜.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   
       "key": "2",
       "name": "---2---"
     },
