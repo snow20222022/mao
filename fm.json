@@ -389,6 +389,18 @@
                 "增量跳过": "https://gh-proxy.com/https://github.com/kuby007/temp/raw/main/sososo.zip;md5=4a05aef16a6e151e10d0f9d54e7a8ecb"
             }
          },
+
+
+{
+      "key": "北斗",
+      "name": "🛸北斗丨蓝光秒播",
+      "api": "csp_Bdjmcc",
+      "type": 3,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+	  
  {
       "key": "gulu",
       "name": "🐧咕噜丨蓝光秒播",
