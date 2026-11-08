@@ -402,7 +402,29 @@
     },
 
 	  
- {
+ //https://8815.kstore.vip/tvbox/wmz
+{
+      "key": "搜剧AI",
+      "name": "🎈看剧AI丨蓝光秒播",
+      "api": "csp_SouJu",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar": "https://raw.gitcode.com/2501_90909032/oooo/blobs/2656bd2198582f73a288c5bcbcb8c9ffd64d437c/261108.jar;md5;544e46e7d7c6f5e4c7d78e23e12d5296",
+      "filterable": 0
+    },
+    {
+      "key": "北斗",
+      "name": "🛸北斗丨蓝光秒播",
+      "api": "csp_Bdjmcc",
+      "type": 3,
+      "searchable": 0,
+      "quickSearch": 0,
+      "jar": "https://raw.gitcode.com/2501_90909032/oooo/blobs/2656bd2198582f73a288c5bcbcb8c9ffd64d437c/261108.jar;md5;544e46e7d7c6f5e4c7d78e23e12d5296",
+      "filterable": 1
+    },
+      
+    {
       "key": "gulu",
       "name": "🐧咕噜丨蓝光秒播",
       "type": 3,
@@ -412,6 +434,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+
 
 
     {
