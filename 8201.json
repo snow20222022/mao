@@ -306,50 +306,103 @@
 
 
 {
-                       "key": "美剧天堂",
-                       "name": "美剧天堂[py]",
-                       "type": 3,
-                       "api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/py/美剧天堂.py",
-                      "searchable": 1,
-                      "quickSearch": 0,
-                      "filterable": 1,
-                      "ext": {}
-  },
-
-
-{
-                       "key": "4K影视",
-                       "name": "4K影视[py]",
-                       "type": 3,
-                       "api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/py/4K影视.py",
-                      "searchable": 1,
-                      "quickSearch": 0,
-                      "filterable": 1,
-                      "ext": {}
-  },
-
-{
-                       "key": "qlys",
-                       "name": "麒麟影视[py]",
-                       "type": 3,
-                       "api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/py/麒麟影视.py",
-                      "searchable": 1,
-                      "quickSearch": 0,
-                      "filterable": 1,
-                      "ext": {}
-  },
-
-{
-                       "key": "腾爱优芒B",
-                       "name": "腾爱优芒B[py]",
-                       "type": 3,
-                       "api": "https://v6.gh-proxy.org/https://github.com/yijing250/kjh998/blob/main/py/腾爱优芒B.py",
-                      "searchable": 1,
-                      "quickSearch": 0,
-                      "filterable": 1,
-                      "ext": {}
-  },
-
+      "key": "搜剧AI",
+      "name": "🎈看剧AI丨蓝光秒播",
+      "api": "csp_SouJu",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "北斗",
+      "name": "🛸北斗丨蓝光秒播",
+      "api": "csp_Bdjmcc",
+      "type": 3,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "厂长",
+      "name": "🏪厂长｜蓝光影视",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cz01.vip"
+    },
+    {
+      "key": "咕噜",
+      "name": "🐧咕噜丨蓝光秒播",
+      "type": 3,
+      "api": "csp_Gulu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "影探",
+      "name": "🌌影探丨4K资源",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/James/main/py/影探4K.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "gulu",
+      "name": "🐧咕噜丨蓝光秒播",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/James/main/py/咕噜咕噜.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "shanzha4k",
+      "name": "🍒山楂丨蓝光秒播",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/py/山楂4K.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "布布",
+      "name": "🦊布布丨蓝光秒播",
+      "type": 3,
+      "api": "csp_YunDuo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://323433ssdfd.top",
+        "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
+        "aid": "com.web.player",
+        "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
+        "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
+        "sign": "ddtvf65f3a83d6d9ad6f"
+      }
+    },
+    {
+      "key": "半日99",
+      "name": "🥰胖妞丨蓝光秒播",
+      "type": 3,
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://103.217.190.91:19987/app/bn",
+        "appkey": "24d625a8a29b4700a1a294c6f3b29e2c",
+        "versionName": "3.5.8",
+        "name": "半日闲",
+        "package": "com.yf.lelian",
+        "buildNumber": "2001",
+        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
+      }
 
 {
                        "key": "红果短剧",
