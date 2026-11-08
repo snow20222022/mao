@@ -10,7 +10,7 @@
      "spider": "https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar;md5;96ae86a8139a92009c4d83d1c6d7fac1"
      "wallpaper": "https://gh-proxy.org/https://github.com/snow20222022/mao/blob/main/tu/f.jpg",
      "logo": "https://gh-proxy.org/https://github.com/snow20222022/mao/blob/main/tu/a.gif",
- 
+    "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}", 
 
 
 
@@ -53,7 +53,7 @@
 
 
 
-       "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
+   
     "sites": [
         {
             "key": "drpy_js_豆瓣",
