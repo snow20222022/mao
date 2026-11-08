@@ -68,41 +68,6 @@
 
 
 
-//https://8815.kstore.vip/tvbox/wmz
-{
-      "key": "搜剧AI",
-      "name": "🎈看剧AI丨蓝光秒播",
-      "api": "csp_SouJu",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "北斗",
-      "name": "🛸北斗丨蓝光秒播",
-      "api": "csp_Bdjmcc",
-      "type": 3,
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-      
-    {
-      "key": "gulu",
-      "name": "🐧咕噜丨蓝光秒播",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/James/main/py/咕噜咕噜.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-   
-{
-      "key": "3",
-      "name": "---3---"
-    },
 
 //老张  https://zhangqun1818.serv00.net/zq/api.json
 
