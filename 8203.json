@@ -1,43 +1,59 @@
-//  >>> 当前时间是：2026-11-08 12:27:25 <<<
-//  秋水导航【官网：www.qiushui.vip】！！！
+///http://rihou.cc:88/demo.php
+//https://ghproxy.net/https://raw.githubusercontent.com/jingyi251/a/main/fm.json      https://gh-proxy.org/https://github.com/snow20222022/mao/blob/main/fm.json
+//潇洒https://9877.kstore.space/sun.json
+
+//    http://www.英格里希嗷呜.top/tv      http://itv666.cc/aowu/config.webp    https://9763.kstore.vip/aowu.json    http://www.英格里希嗷呜.top
+
 //  当前接口：https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/jsm.json
 
 {
-    "spider": "https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar;md5;96ae86a8139a92009c4d83d1c6d7fac1",
-    "lives": [
-        {
-            "name": "migu",
-            "type": 0,
-            "url": "https://develop202.github.io/migu_video/interface.txt",
-            "playerType": 1,
-            "ua": "okhttp/3.8.1",
-            "timeout": 20,
-            "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
-            "logo": "https://logo.wyfc.qzz.io/{name}.png"
-        },
-        {
-            "name": "live",
-            "type": 0,
-            "url": "https://epg.pw/test_channels.m3u",
-            "playerType": 1,
-            "ua": "okhttp/3.8.1",
-            "timeout": 20,
-            "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
-            "logo": "https://logo.wyfc.qzz.io/{name}.png"
-        },
-        {
-            "name": "ipv6",
-            "type": 0,
-            "url": "./tvboxtv.txt",
-            "playerType": 1,
-            "ua": "okhttp/3.8.1",
-            "timeout": 20,
-            "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
-            "logo": "https://logo.wyfc.qzz.io/{name}.png"
-        }
-    ],
-    "wallpaper": "https://wallpaper-1tg.pages.dev/",
-    "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
+     "spider": "https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar;md5;96ae86a8139a92009c4d83d1c6d7fac1"
+     "wallpaper": "https://gh-proxy.org/https://github.com/snow20222022/mao/blob/main/tu/f.jpg",
+     "logo": "https://gh-proxy.org/https://github.com/snow20222022/mao/blob/main/tu/a.gif",
+     "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
+
+
+
+  "lives": [
+    {
+      "name": "Kimentanm",
+      "type": 0,
+      "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "playerType": 2
+    },
+   {
+      "name": "👖裤佬IPTV直播精简",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://github.com/mhmdxahmd/mafly/blob/main/MAfly1/mafly.m3u"
+    },
+ {
+      "name": "星辰大海",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://github.com/snow20222022/mao/blob/main/星辰大海.m3u"
+    },
+
+ {
+      "name": "北方广电",
+      "type": 0,
+      "url": "https://v6.gh-proxy.org/https://github.com/a2256569/kands/blob/main/bfgd.txt"
+    },
+
+{
+      "name": "直播",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/a2256569/tv/refs/heads/main/sdzb.txt"
+    },
+
+ {
+      "name": "👖裤佬IPTV直播",
+      "type": 0,
+      "url": "https://live.445569.xyz/live.m3u"
+    }
+  ],
+
+
+
+       "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
     "sites": [
         {
             "key": "drpy_js_豆瓣",
@@ -49,6 +65,12 @@
             "quickSearch": 0,
             "changeable": 0
         },
+
+{
+      "key": "1",
+      "name": "---1---"
+    },
+
        //https://clun.top/box.json
 		{
                        "key": "py_bubuzhuiju",
@@ -219,6 +241,42 @@
 {
       "key": "2",
       "name": "---2---"
+    },
+
+//https://8815.kstore.vip/tvbox/wmz
+{
+      "key": "搜剧AI",
+      "name": "🎈看剧AI丨蓝光秒播",
+      "api": "csp_SouJu",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "北斗",
+      "name": "🛸北斗丨蓝光秒播",
+      "api": "csp_Bdjmcc",
+      "type": 3,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+      
+    {
+      "key": "gulu",
+      "name": "🐧咕噜丨蓝光秒播",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/James/main/py/咕噜咕噜.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   
+{
+      "key": "3",
+      "name": "---3---"
     },
 
 //老张  https://zhangqun1818.serv00.net/zq/api.json
@@ -831,298 +889,12 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
         },
-        {
-            "key": "玩偶",
-            "name": "玩偶 • 4K",
-            "type": 3,
-            "api": "csp_Wogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "https://www.wogg.live",
-                    "https://woggpan.888484.xyz",
-                    "https://wogg.xxooo.cf",
-                    "https://woggpan.xxooo.cf"
-                ]
-            },
-            "timeout": 60
-        },
-        {
-            "key": "快映",
-            "name": "快映 • 4K",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "http://xsayang.fun",
-                    "http://38.76.197.172:12521"
-                ]
-            },
-            "timeout": 60
-        },
-        {
-            "key": "木偶",
-            "name": "木偶 • 4K",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "https://123.666291.xyz",
-                    "https://666.666291.xyz",
-                    "https://www.muou.site",
-                    "https://www.muou.asia"
-                ]
-            },
-            "timeout": 60
-        },
-        {
-            "key": "闪电",
-            "name": "闪电 • 4K",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "http://shandian.blog"
-                ]
-            },
-            "timeout": 60
-        },
-        {
-            "key": "蜡笔",
-            "name": "蜡笔 • 4K",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "https://www.fmcf.fun",
-                    "https://www.mmpanpan.site",
-                    "http://tvpanpan.site",
-                    "http://www.tvpanpan.site"
-                ]
-            },
-            "timeout": 60
-        },
-        {
-            "key": "多多",
-            "name": "多多 • 4K",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "https://tv.yydsys.top",
-                    "https://tv.yydsys.cc",
-                    "https://tv.214521.xyz"
-                ]
-            },
-            "timeout": 60
-        },
-        {
-            "key": "八零",
-            "name": "八零 • 4K",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "https://woog.nxog.eu.org",
-                    "https://ogkk.nxog.eu.org",
-                    "https://woog.430520.xyz"
-                ]
-            },
-            "timeout": 60
-        },
-        {
-            "key": "虎斑",
-            "name": "虎斑 • 4K",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "http://xhban.xyz",
-                    "http://38.76.197.172:16969"
-                ]
-            },
-            "timeout": 60
-        },
-        {
-            "key": "花卷",
-            "name": "花卷 • 4K",
-            "type": 3,
-            "api": "csp_PanWebShareHJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "https://www.hjzhencai.top",
-                    "https://www.huanjuanwp.shop"
-                ]
-            },
-            "timeout": 60
-        },
-        {
-            "key": "种子",
-            "name": "种子 • 4K",
-            "type": 3,
-            "api": "csp_SeedHub",
-            "searchable": 1,
-            "quickSearch": 0,
-            "ext": {
-                "site": [
-                    "https://sidhub.cc",
-                    "https://seeduck.cc",
-                    "https://hubdog.cc",
-                    "http://104.243.25.80"
-                ]
-            },
-            "timeout": 60
-        },
-        {
-            "key": "搬运",
-            "name": "搬运 • 4K",
-            "type": 3,
-            "api": "csp_BanYunDao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "timeout": 60
-        },
-        {
-            "key": "指南",
-            "name": "指南 • 4K",
-            "type": 3,
-            "api": "csp_4KZhinan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "site": [
-                    "https://4kzn.cc"
-                ]
-            },
-            "timeout": 60
-        },
-        {
-            "key": "小丑",
-            "name": "小丑 • 4K",
-            "type": 3,
-            "api": "csp_4KZhinan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "site": [
-                    "https://4kxc.com"
-                ]
-            },
-            "timeout": 60
-        },
-        {
-            "key": "茉莉",
-            "name": "茉莉 • 4K",
-            "type": 3,
-            "api": "csp_HDmoli",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "site": [
-                    "https://www.hdmoli.com",
-                    "https://www.hdmoli.pro"
-                ]
-            },
-            "timeout": 60
-        },
-        {
-            "key": "爱盼",
-            "name": "爱盼 • 4K",
-            "type": 3,
-            "api": "csp_AiPan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "timeout": 60
-        },
-        {
-            "key": "移动",
-            "name": "移动 • 4K",
-            "type": 3,
-            "api": "csp_Yidong4K",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "timeout": 60
-        },
-        {
-            "key": "即刻",
-            "name": "即刻 • 4K",
-            "type": 3,
-            "api": "csp_Jike",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "style": {
-                "type": "list"
-            },
-            "timeout": 60
-        },
-        {
-            "key": "双星",
-            "name": "双星 • 4K",
-            "type": 3,
-            "api": "csp_ShuangXing",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "style": {
-                "type": "list"
-            },
-            "timeout": 60
-        },
-        {
-            "key": "卡卡",
-            "name": "卡卡 • 4K",
-            "type": 3,
-            "api": "csp_KKPan",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "style": {
-                "type": "list"
-            },
-            "timeout": 60
-        },
+{
+      "key": "4",
+      "name": "---4---"
+    },
+
+       
         {
             "key": "红果短剧",
             "name": "红果 • 短剧",
@@ -1366,221 +1138,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "阿里云盘",
-            "name": "阿里 • 云盘",
-            "type": 3,
-            "api": "csp_PanAli",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            }
-        },
-        {
-            "key": "夸克网盘",
-            "name": "夸克 • 网盘",
-            "type": 3,
-            "api": "csp_PanQuark",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            }
-        },
-        {
-            "key": "UC网盘",
-            "name": "UC • 网盘",
-            "type": 3,
-            "api": "csp_PanUC",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            }
-        },
-        {
-            "key": "百度网盘",
-            "name": "百度 • 网盘",
-            "type": 3,
-            "api": "csp_PanBaidu",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            }
-        },
-        {
-            "key": "迅雷云盘",
-            "name": "迅雷 • 云盘",
-            "type": 3,
-            "api": "csp_PanXunlei",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            }
-        },
-        {
-            "key": "光鸭云盘",
-            "name": "光鸭 • 云盘",
-            "type": 3,
-            "api": "csp_PanGuangya",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            }
-        },
-        {
-            "key": "天翼云盘",
-            "name": "天翼 • 云盘",
-            "type": 3,
-            "api": "csp_PanTianyi",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            }
-        },
-        {
-            "key": "123云盘",
-            "name": "123 • 云盘",
-            "type": 3,
-            "api": "csp_Pan123",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            }
-        },
-        {
-            "key": "觅盘",
-            "name": "觅盘 • 搜索",
-            "type": 3,
-            "api": "csp_MiPan",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "timeout": 60
-        },
-        {
-            "key": "盘搜",
-            "name": "盘搜 • 搜索",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "timeout": 60
-        },
-        {
-            "key": "酷乐",
-            "name": "酷乐 • 搜索",
-            "type": 3,
-            "api": "csp_KuLe",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "timeout": 60
-        },
-        {
-            "key": "百酷",
-            "name": "百酷 • 搜索",
-            "type": 3,
-            "api": "csp_Baiku",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "timeout": 60
-        },
-        {
-            "key": "趣盘",
-            "name": "趣盘 • 搜索",
-            "type": 3,
-            "api": "csp_QuPanSo",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "timeout": 60
-        },
-        {
-            "key": "88看球",
-            "name": "88 • 看球",
-            "type": 3,
-            "api": "csp_Sports88",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "飞球体育",
-            "name": "飞球 • 体育",
-            "type": 3,
-            "api": "csp_SportsFeiqiu",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "瓜子体育",
-            "name": "瓜子 • 体育",
-            "type": 3,
-            "api": "csp_SportsGuazi",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "咖啡体育",
-            "name": "咖啡 • 体育",
-            "type": 3,
-            "api": "csp_SportsKafei",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "球通体育",
-            "name": "球通 • 体育",
-            "type": 3,
-            "api": "csp_SportQiutong",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
+               {
             "key": "呦呦DJ",
             "name": "呦呦 • DJ",
             "type": 3,
@@ -1795,7 +1353,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "./json/SEJY.json",
+                "json": "https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/json/XXKT.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1812,7 +1370,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "./json/XXKT.json",
+                "json": "https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/json/XXKT.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1829,7 +1387,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "./json/CZKT.json",
+                "json": "https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/json/CZKT.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1846,7 +1404,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "./json/GZKT.json",
+                "json": "https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/json/GZKT.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
