@@ -52,10 +52,55 @@
 
   "sites": [
  
+ {
+      "key": "Tg | 豆瓣",
+      "name": "Tg | 豆瓣",
+      "type": 3,
+     "jar": "https://v6.gh-proxy.org/https://github.com/yijing250/mao/blob/main/jar/custom_spider.jar",
+      "api": "csp_TgYunDouBanPan",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "siteUrl": "http://127.0.0.1:9999",
+        "count": 4,
+        "channelUsername": "+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,leoziyuan,ResourceUniverse,BaiduCloudDisk,SharePanBaidu,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,yunpanchat,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,alyp_4K_Movies,yunpanshare,shareAliyun,Lsp115,alyp_1",
+        "commonConfig": "./json/peizhi.json",
+        "filter": "./json/douban.json"
+      }
+    },
+
+
+
+
+
+ {
+      "key": "量子",
+      "name": "采集 | 量子",
+     "jar": "https://v6.gh-proxy.org/https://github.com/yijing250/mao/blob/main/jar/custom_spider.jar",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产动漫", "日韩动漫", "国产剧", "韩国剧", "日本剧",
+        "电影片", "连续剧", "综艺片", "动漫片",
+        "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片",
+        "台湾剧", "香港剧", "欧美剧", "记录片", "海外剧", "泰国剧",
+        "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺",
+        "欧美动漫", "港台动漫", "海外动漫",
+        "体育", "足球", "篮球", "网球", "斯诺克"
+      ]
+    },
+
+
 {
       "key": "0",
       "name": "---0---"
     },
+
+
+
+
 
 	{
             "type": 3,
