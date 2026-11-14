@@ -64,8 +64,8 @@
         "siteUrl": "http://127.0.0.1:9999",
         "count": 4,
         "channelUsername": "+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,leoziyuan,ResourceUniverse,BaiduCloudDisk,SharePanBaidu,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,yunpanchat,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,alyp_4K_Movies,yunpanshare,shareAliyun,Lsp115,alyp_1",
-        "commonConfig": "./json/peizhi.json",
-        "filter": "./json/douban.json"
+        "commonConfig": "https://v6.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/json/peizhi.json",
+        "filter": "https://v6.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/json/douban.json"
       }
     },
 
