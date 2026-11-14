@@ -1,0 +1,89 @@
+name: Sync aowu jar daily
+
+on:
+  schedule:
+    - cron: '0 0 * * *'          # 每天 UTC 00:00 = 北京 08:00
+  workflow_dispatch:             # 手动可点
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch JSON + Download jar
+        run: |
+          mkdir -p jar
+          curl -fsSL -A "Mozilla/5.0" "https://9763.kstore.vip/aowu.json" -o aowu.json
+
+          cat > parse_jar.py <<'PY'
+          import json, re, urllib.request, os, sys
+
+          with open("aowu.json", encoding="utf-8") as f:
+              data = json.load(f)
+
+          jar_url = None
+
+          # 1. 顶层常见字段
+          for key in ("spider", "jar", "parser"):
+              v = data.get(key, "")
+              if isinstance(v, str) and v.endswith(".jar"):
+                  jar_url = v.split(";")[0]   # 去掉 ;md5;xxx
+                  break
+
+          # 2. sites 列表里的 jar
+          if not jar_url:
+              for site in data.get("sites", []):
+                  v = site.get("jar") or ""
+                  if v.endswith(".jar"):
+                      jar_url = v.split(";")[0]
+                      break
+
+          if not jar_url:
+              print("没在 JSON 里找到 .jar 地址")
+              sys.exit(0)
+
+          print("jar 地址:", jar_url)
+
+          req = urllib.request.Request(
+              jar_url,
+              headers={"User-Agent": "Mozilla/5.0"}
+          )
+          with urllib.request.urlopen(req, timeout=60) as r:
+              content = r.read()
+
+          # 简单校验：jar 是 zip 格式，头两个字节 PK
+          if content[:2] != b'PK':
+              print("下载到的不是合法 jar，放弃提交")
+              sys.exit(0)
+
+          with open("jar/aowu.jar", "wb") as out:
+              out.write(content)
+          print("已写入 jar/aowu.jar，大小:", len(content))
+          PY
+
+          python3 parse_jar.py
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add jar/aowu.jar aowu.json
+
+          if git diff --cached --quiet; then
+            echo "无变化，跳过提交"
+          else
+            git commit -m "chore: sync aowu.jar $(date +'%Y-%m-%d %H:%M')"
+            git push origin HEAD
+          fi
