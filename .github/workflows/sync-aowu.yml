@@ -1,0 +1,49 @@
+name: Sync aowu.jar Daily
+
+on:
+  schedule:
+    - cron: '0 0 * * *'        # 每天 UTC 00:00 = 北京 08:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch JSON
+        run: |
+          curl -fL -A "Mozilla/5.0" \
+               -H "Referer: http://itv666.cc/" \
+               "https://9763.kstore.vip/aowu.json" -o aowu.json \
+          || { echo "拉取 JSON 失败（可能 403 或被反代拦截）"; exit 1; }
+
+      - name: Download jar
+        run: python3 scripts/parse_jar.py
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if [ ! -f jar/aowu.jar ]; then
+            echo "⚠️ jar/aowu.jar 未生成，跳过提交"
+            exit 0
+          fi
+
+          git add jar/aowu.jar aowu.json
+          if git diff --cached --quiet; then
+            echo "无变化，跳过提交"
+          else
+            git commit -m "chore: sync aowu.jar $(date +'%Y-%m-%d %H:%M')"
+            git push origin HEAD
+          fi
