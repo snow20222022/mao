@@ -5,7 +5,7 @@ from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 
 # ==============================================
-JSON_URL = "https://example.com/aowu.json"   # ← 改成你真实的 JSON 接口网址
+JSON_URL = "https://9763.kstore.vip/aowu.json"   # ← 改成你真实的 JSON 接口网址
 SAVE_DIR = "jar"
 # ==============================================
 
