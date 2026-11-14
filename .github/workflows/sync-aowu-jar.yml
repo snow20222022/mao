@@ -1,9 +1,9 @@
-name: Sync aowu jar daily
+name: Sync aowu.jar Daily
 
 on:
   schedule:
-    - cron: '0 0 * * *'          # 每天 UTC 00:00 = 北京 08:00
-  workflow_dispatch:             # 手动可点
+    - cron: '0 0 * * *'        # 每天 UTC 00:00 (北京时间 08:00)
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -12,8 +12,7 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
@@ -25,65 +24,67 @@ jobs:
       - name: Fetch JSON + Download jar
         run: |
           mkdir -p jar
-          curl -fsSL -A "Mozilla/5.0" "https://9763.kstore.vip/aowu.json" -o aowu.json
-
+          
+          # 拉取 JSON，加 -f 失败则直接退出（避免后续空跑）
+          curl -fL -A "Mozilla/5.0" "https://9763.kstore.vip/aowu.json" -o aowu.json || { echo "拉取 JSON 失败(可能403)"; exit 1; }
+          
           cat > parse_jar.py <<'PY'
-          import json, re, urllib.request, os, sys
+import json, urllib.request, os, sys
 
-          with open("aowu.json", encoding="utf-8") as f:
-              data = json.load(f)
+with open("aowu.json", encoding="utf-8") as f:
+    data = json.load(f)
 
-          jar_url = None
+jar_url = None
 
-          # 1. 顶层常见字段
-          for key in ("spider", "jar", "parser"):
-              v = data.get(key, "")
-              if isinstance(v, str) and v.endswith(".jar"):
-                  jar_url = v.split(";")[0]   # 去掉 ;md5;xxx
-                  break
+# 适配常见字段
+for key in ("spider", "jar", "parser"):
+    v = data.get(key, "")
+    if isinstance(v, str) and ".jar" in v:
+        jar_url = v.split(";")[0]
+        break
 
-          # 2. sites 列表里的 jar
-          if not jar_url:
-              for site in data.get("sites", []):
-                  v = site.get("jar") or ""
-                  if v.endswith(".jar"):
-                      jar_url = v.split(";")[0]
-                      break
+if not jar_url:
+    for site in data.get("sites", []):
+        v = site.get("jar") or ""
+        if ".jar" in v:
+            jar_url = v.split(";")[0]
+            break
 
-          if not jar_url:
-              print("没在 JSON 里找到 .jar 地址")
-              sys.exit(0)
+if not jar_url:
+    print("❌ JSON 中未找到 .jar 地址，请检查接口结构")
+    sys.exit(1)
 
-          print("jar 地址:", jar_url)
+print("✅ 找到 jar 地址:", jar_url)
 
-          req = urllib.request.Request(
-              jar_url,
-              headers={"User-Agent": "Mozilla/5.0"}
-          )
-          with urllib.request.urlopen(req, timeout=60) as r:
-              content = r.read()
+req = urllib.request.Request(jar_url, headers={"User-Agent": "Mozilla/5.0"})
+with urllib.request.urlopen(req, timeout=60) as r:
+    content = r.read()
 
-          # 简单校验：jar 是 zip 格式，头两个字节 PK
-          if content[:2] != b'PK':
-              print("下载到的不是合法 jar，放弃提交")
-              sys.exit(0)
+if content[:2] != b'PK':
+    print("❌ 下载内容不是合法 jar (文件头非PK)，疑似被拦截或链接失效")
+    sys.exit(1)
 
-          with open("jar/aowu.jar", "wb") as out:
-              out.write(content)
-          print("已写入 jar/aowu.jar，大小:", len(content))
-          PY
+with open("jar/aowu.jar", "wb") as out:
+    out.write(content)
+print("✅ 已写入 jar/aowu.jar，大小:", len(content), "字节")
+PY
 
           python3 parse_jar.py
 
-      - name: Commit & Push
+      - name: Commit & Push (仅当有变化)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add jar/aowu.jar aowu.json
-
-          if git diff --cached --quiet; then
-            echo "无变化，跳过提交"
+          
+          # 核心修复：先检查文件是否真实存在再 add
+          if [ -f "jar/aowu.jar" ]; then
+            git add jar/aowu.jar aowu.json
+            if git diff --cached --quiet; then
+              echo "无变化，跳过提交"
+            else
+              git commit -m "chore: sync aowu.jar $(date +'%Y-%m-%d %H:%M')"
+              git push origin HEAD
+            fi
           else
-            git commit -m "chore: sync aowu.jar $(date +'%Y-%m-%d %H:%M')"
-            git push origin HEAD
+            echo "⚠️ jar/aowu.jar 未生成，跳过提交（请查看上一步日志）"
           fi
