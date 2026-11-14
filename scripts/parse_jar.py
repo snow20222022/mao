@@ -5,7 +5,7 @@ from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 
 # ==============================================
-JSON_URL = "https://9763.kstore.vip/aowu.json"   # ← 改成你真实的 JSON 接口网址
+JSON_URL = "https://9763.kstore.vip/aowu.json"   # ← 保持你的真实接口
 SAVE_DIR = "jar"
 # ==============================================
 
@@ -20,30 +20,23 @@ def fetch_json(url):
         sys.exit(1)
 
 def extract_image_url(data):
-    """从 JSON 中提取 .png / .jpg 地址，兼容多种结构"""
-    candidates = ["url", "download", "image", "img", "png", "file_url", "link", "src"]
-
+    """精准提取 spider 字段中的 png 图片（清洗 md5 后缀）"""
     if isinstance(data, dict):
-        for key in candidates:
-            val = data.get(key)
-            if val and (".png" in str(val).lower() or ".jpg" in str(val).lower() or ".jpeg" in str(val).lower()):
-                return val
-        for sub_key in ["data", "result", "body", "response", "info"]:
-            sub = data.get(sub_key)
-            if isinstance(sub, dict):
-                for key in candidates:
-                    val = sub.get(key)
-                    if val and (".png" in str(val).lower() or ".jpg" in str(val).lower() or ".jpeg" in str(val).lower()):
-                        return val
-
-    elif isinstance(data, list) and len(data) > 0:
-        first = data[0]
-        if isinstance(first, dict):
-            for key in candidates:
-                val = first.get(key)
-                if val and (".png" in str(val).lower() or ".jpg" in str(val).lower() or ".jpeg" in str(val).lower()):
-                    return val
-
+        spider_val = data.get("spider")
+        if spider_val:
+            val = str(spider_val)
+            # 格式如：url.png;md5;xxxx，取分号前部分
+            if ";" in val:
+                val = val.split(";")[0]
+            if val.startswith("http") and (".png" in val.lower() or ".jpg" in val.lower()):
+                return val.strip()
+            # 若 spider 本身是嵌套对象
+            if isinstance(spider_val, dict):
+                for k in ["url", "img", "image", "src"]:
+                    if k in spider_val:
+                        v = str(spider_val[k])
+                        if ";" in v: v = v.split(";")[0]
+                        if v.startswith("http"): return v.strip()
     return None
 
 def download_file(url, save_path):
@@ -51,7 +44,7 @@ def download_file(url, save_path):
         req = Request(url, headers={"User-Agent": "Mozilla/5.0"})
         with urlopen(req, timeout=60) as resp:
             data = resp.read()
-        os.makedirs(os.path.dirname(save_path), exist_ok=True)
+        os.makedirs(SAVE_DIR, exist_ok=True)
         with open(save_path, "wb") as f:
             f.write(data)
         size = os.path.getsize(save_path)
@@ -70,22 +63,19 @@ def main():
 
     data = fetch_json(JSON_URL)
 
-    # 调试：打印完整 JSON（调通后可注释掉）
-    print("\n📋 JSON 完整结构：")
-    print(json.dumps(data, ensure_ascii=False, indent=2))
-    print()
+    # 调试用（调通后可注释）
+    # print("\n📋 JSON 完整结构：")
+    # print(json.dumps(data, ensure_ascii=False, indent=2))
 
     img_url = extract_image_url(data)
     if not img_url:
-        print("❌ JSON 中未找到 .png/.jpg 地址，请检查接口结构")
-        print("💡 上面已打印完整 JSON，对照字段名修改 extract_image_url")
+        print("❌ 未从 spider 字段提取到有效图片地址")
         sys.exit(1)
 
     print(f"✅ 找到图片地址: {img_url}")
 
-    # 根据 URL 判断后缀，默认 png
-    lower = img_url.lower()
-    if ".jpg" in lower or ".jpeg" in lower:
+    # 后缀判断（spider 里是 png，默认 png）
+    if ".jpg" in img_url.lower() or ".jpeg" in img_url.lower():
         ext = ".jpg"
     else:
         ext = ".png"
