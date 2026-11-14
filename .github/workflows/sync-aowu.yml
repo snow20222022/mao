@@ -1,9 +1,9 @@
-name: Sync aowu.jar Daily
+name: Sync aowu jar Daily
 
 on:
   schedule:
-    - cron: '0 0 * * *'        # 每天 UTC 00:00 = 北京 08:00
-  workflow_dispatch:
+    - cron: "0 3 * * *"   # 每天凌晨 3 点 UTC（北京时间 11 点），可自行改
+  workflow_dispatch:      # 允许手动触发
 
 permissions:
   contents: write
@@ -11,39 +11,37 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Fetch JSON
-        run: |
-          curl -fL -A "Mozilla/5.0" \
-               -H "Referer: http://itv666.cc/" \
-               "https://9763.kstore.vip/aowu.json" -o aowu.json \
-          || { echo "拉取 JSON 失败（可能 403 或被反代拦截）"; exit 1; }
+        run: echo "准备拉取 JSON 接口..."
 
-      - name: Download jar
+      - name: Download jar (图片)
         run: python3 scripts/parse_jar.py
 
-      - name: Commit & Push
+      - name: Commit & Push (仅当有更新)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          if [ ! -f jar/aowu.jar ]; then
-            echo "⚠️ jar/aowu.jar 未生成，跳过提交"
-            exit 0
-          fi
+          # 添加 jar/ 目录下所有变更（png/jpg）
+          git add jar/
 
-          git add jar/aowu.jar aowu.json
+          # 仅当有实际变更才提交推送
           if git diff --cached --quiet; then
-            echo "无变化，跳过提交"
+            echo "✅ 无新图片，跳过提交"
           else
-            git commit -m "chore: sync aowu.jar $(date +'%Y-%m-%d %H:%M')"
-            git push origin HEAD
+            git commit -m "chore: 自动同步 aowu 图片 ($(date +'%Y-%m-%d %H:%M'))"
+            git push
+            echo "✅ 已推送新图片"
           fi
