@@ -13,12 +13,6 @@
    "notice": "👖Touch breasts 摸奶 fuck a hairy pussy肏毛屄👀",
 
   "lives": [
-	   {
-      "name": "🦋 蝴蝶影视｜Tg：@huliys9",
-      "type": 0,
-      "url": "https://lytvs.top/py/custom_lives.m3u",
-      "ua": "okhttp/5.3.2"
-    },
 {
       "name": "直播",
       "type": 0,
@@ -58,7 +52,7 @@
 
   "sites": [
  
-   {
+ {
       "key": "Tg | 豆瓣",
       "name": "Tg | 豆瓣",
       "type": 3,
@@ -67,17 +61,13 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "siteUrl": "",
+        "siteUrl": "http://127.0.0.1:9999",
         "count": 4,
         "channelUsername": "+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,leoziyuan,ResourceUniverse,BaiduCloudDisk,SharePanBaidu,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,yunpanchat,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,alyp_4K_Movies,yunpanshare,shareAliyun,Lsp115,alyp_1",
-        "commonConfig": "https://v6.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/json/peizhi.json",
-        "filter": "https://v6.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/json/douban.json"
+        "commonConfig": "./json/peizhi.json",
+        "filter": "./json/douban.json"
       }
     },
-
-
-
-
 
  {
       "key": "量子",
@@ -97,6 +87,34 @@
         "体育", "足球", "篮球", "网球", "斯诺克"
       ]
     },
+
+
+{
+  "name": "📡TG频道┃103个",
+  "key": "ZakaTg",
+  "type": 3,
+  "api": "csp_ZakaTgAllAmns",
+  "jar": "https://zakatg.web.zaka.live/zaka-tg.jar?v=103",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": {
+    "mirror": "https://tg.i-c-a.su",
+    "size": 50,
+    "groupByTitle": true,
+    "minGroup": 2,
+    "photoName": "🖼 图片",
+    "photoInList": false,
+    "homeChannels": 3,
+    "aggBatch": 6,
+    "searchBatch": 6,
+    "scanPages": 3,
+    "budgetMs": 16000,
+    "hotName": "🔥全部频道",
+    "filterAds": true
+  }
+ },
+
 
 
 
