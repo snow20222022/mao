@@ -2,17 +2,25 @@
 //https://ghproxy.net/https://raw.githubusercontent.com/jingyi251/a/main/fm.json      https://gh-proxy.org/https://github.com/snow20222022/mao/blob/main/fm.json
 //潇洒https://9877.kstore.space/sun.json
 
-//  当前接口  http://www.英格里希嗷呜.top/tv      http://itv666.cc/aowu/config.webp    https://9763.kstore.vip/aowu.json    http://www.英格里希嗷呜.top
+//  当前接口  http://www.嗷呜.cc/tv      https://9763.kstore.vip/aowu.json  http://www.英格里希嗷呜.top/tv   http://www.2525666.xyz/tv
 
 
 {
-      "spider": "https://v6.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/jar/aowu.png",   
+      "spider": "https://gh-proxy.org/https://github.com/snow20222022/mao/blob/main/fm.json",   
      "wallpaper": "https://gh-proxy.org/https://github.com/snow20222022/mao/blob/main/tu/f.jpg",
      "logo": "https://gh-proxy.org/https://github.com/snow20222022/mao/blob/main/tu/a.gif",
 
 
 
   "lives": [
+{
+      "name": "🦋 蝴蝶影视｜Tg：@huliys9",
+      "type": 0,
+      "url": "https://lytvs.top/py/custom_lives.m3u",
+      "ua": "okhttp/5.3.2"
+    },
+
+
     {
       "name": "Kimentanm",
       "type": 0,
@@ -52,18 +60,18 @@
 
 
   "sites": [
-    //{
+   // {
     //  "name": "🔥豆瓣┃推荐",
     //  "key": "Douban",
-     // "type": 3,
-      //"api": "csp_DoubanAmns",
-      //"indexs": 1,
-      //"searchable": 0,
-      //"quickSearch": 0,
-      //"changeable": 1,
-      //"ext": "Douban"
-    //},
-	   {
+    //  "type": 3,
+    //  "api": "csp_DoubanAmns",
+    //  "indexs": 1,
+    //  "searchable": 0,
+   //   "quickSearch": 0,
+   //   "changeable": 1,
+   //   "ext": "Douban"
+   // },
+ {
       "key": "Tg | 豆瓣",
       "name": "Tg | 豆瓣",
       "type": 3,
@@ -72,7 +80,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "siteUrl": "http://127.0.0.1:9999",
+        "siteUrl": "",
         "count": 4,
         "channelUsername": "+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,leoziyuan,ResourceUniverse,BaiduCloudDisk,SharePanBaidu,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,yunpanchat,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,alyp_4K_Movies,yunpanshare,shareAliyun,Lsp115,alyp_1",
         "commonConfig": "https://v6.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/json/peizhi.json",
@@ -297,7 +305,7 @@
       "key": "山楂4K",
       "name": "山楂4K",
       "type": 3,
-      "api": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/py/山楂4K.py",
+      "api": "https://gh-proxy.org/https://github.com/cluntop/tvbox/blob/main/py/shanzha.py",
        "searchable":1,
        "quickSearch":0
 
@@ -453,9 +461,7 @@
 //饭太硬    http://www.饭太硬.cc/tv   http://fty.xxooo.cf/tv    http://www.饭太硬.net/tv
 
 
-
 {"key":"海绵","name":"🐬海绵┃不卡","type":3,"api":"csp_HmysGuard","timeout":10,"playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/fan.txt"},
-
 {"key":"AiDj","name":"❤️AI剧┃弹幕","type":3,"api":"csp_AiDjGuard","ext":{"type":"video","name":"短剧","danMu":false},"indexs":0,"quickSearch":1,"searchable":1,"changeable":0,"jar":"https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/fan.txt"},
 
 {
