@@ -58,44 +58,17 @@
      ],
 
   "sites": [
-
-	{
-      "key": "hongguo_full.py",
-      "name": "🍎红果",
-      "type": 3,
-      "api": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/py/hongguo_full.py",
-     "jar": "https://zhangqun1818.serv00.net/zq/pro.jar"
-    },  
   {
-      "key": "hongguo_local_v01",
-      "name": "🍎红果短剧",
-      "type": 3,
-      "api": "https://v6.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/py/hongguo_local.py",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "stream": 0
-      },
-     "jar": "https://zhangqun1818.serv00.net/zq/pro.jar"
-    },
- {
-      "key": "Tg | 豆瓣",
-      "name": "Tg | 豆瓣",
-      "type": 3,
-     "jar": "https://v6.gh-proxy.org/https://github.com/yijing250/mao/blob/main/jar/custom_spider.jar",
-      "api": "csp_TgYunDouBanPan",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "siteUrl": "http://127.0.0.1:9999",
-        "count": 4,
-        "channelUsername": "+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,leoziyuan,ResourceUniverse,BaiduCloudDisk,SharePanBaidu,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,yunpanchat,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,alyp_4K_Movies,yunpanshare,shareAliyun,Lsp115,alyp_1",
-        "commonConfig": "./json/peizhi.json",
-        "filter": "./json/douban.json"
-      }
-    },
-
+  ”key“: ”一个“,
+  ”name“: ”一个app“,
+  ”type“: 3,
+  ”api“: ”csp_One“,
+  ”searchable“: 1,
+  ”quickSearch“: 1,
+  ”filterable“: 0,
+  ”jar“: ”https://v6.gh-proxy.org/https://github.com/yijing250/mao/blob/main/jar/一个app.jar“,
+  ”ext“: ”“
+},
  {
       "key": "量子",
       "name": "采集 | 量子",
