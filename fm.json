@@ -136,6 +136,15 @@
 
     },
 
+   {
+      "name": "🚀韩剧┃秒播",
+      "key": "Hxq",
+      "type": 3,
+      "api": "csp_HxqAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "name": "🚀瓜子┃秒播",
       "key": "Guazi",
@@ -826,8 +835,8 @@
       "changeable": 1,
       "genre": "shortdrama"
     },
-    {
-      "name": "⭐橘汁┃快速",
+   {
+      "name": "🔆橘汁┃快速",
       "key": "Juzhi",
       "type": 3,
       "api": "csp_JuzhiAmns",
@@ -837,7 +846,7 @@
       "ext": "Juzhi"
     },
     {
-      "name": "⭐热播┃快速",
+      "name": "🔆热播┃快速",
       "key": "Rbys",
       "type": 3,
       "api": "csp_RbysAmns",
@@ -847,7 +856,7 @@
       "ext": "Rbys"
     },
     {
-      "name": "⭐杜北┃秒播",
+      "name": "🔆杜北┃秒播",
       "key": "Dubk",
       "type": 3,
       "api": "csp_DubkAmns",
@@ -857,7 +866,7 @@
       "ext": "Dubk"
     },
     {
-      "name": "⭐荐片┃快速",
+      "name": "🔆荐片┃快速",
       "key": "JPian",
       "type": 3,
       "api": "csp_JPianAmns",
@@ -867,7 +876,7 @@
       "ext": "JPian"
     },
     {
-      "name": "⭐爱看┃采集",
+      "name": "🔆爱看┃采集",
       "key": "AiBot",
       "type": 3,
       "api": "csp_AiBotAmns",
